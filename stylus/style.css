@@ -223,6 +223,24 @@ a:active {
 a:hover {
   color: #d73444;
 }
+.redColor {
+  color: #f00;
+}
+.orangeColor {
+  color: #ffa500;
+}
+.yellowColor {
+  color: #ff0;
+}
+.greenColor {
+  color: #008000;
+}
+.blueColor {
+  color: #00f;
+}
+.purpleColor {
+  color: #800080;
+}
 a.largeLink:after {
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -252,24 +270,6 @@ a.after:after {
 a.before:hover:before,
 a.after:hover:after {
   width: 100%;
-}
-.redColor {
-  color: #f00;
-}
-.orangeColor {
-  color: #ffa500;
-}
-.yellowColor {
-  color: #ff0;
-}
-.greenColor {
-  color: #008000;
-}
-.blueColor {
-  color: #00f;
-}
-.purpleColor {
-  color: #800080;
 }
 #css-zen-garden {
   background-color: #800080;

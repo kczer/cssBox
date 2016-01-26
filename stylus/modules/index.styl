@@ -1,4 +1,6 @@
-
+@import 'textcolor' 
+@import 'backgroundcolor'
+@import 'link'
 // @source http://smacss.com/book/type-module
 //
 // Module Rules
@@ -16,15 +18,6 @@
 // selectors, sticking only to class names. A module will likely contain a
 // number of elements and there is likely to be a desire to use descendent
 // or child selectors to target those elements.
-
-$colors = {
-redColor: red
-orangeColor: orange 
-yellowColor: yellow
-greenColor: green
-blueColor: blue
-purpleColor: purple
-}
 
 a.largeLink:after
     left:50%;
@@ -54,6 +47,3 @@ a.before:hover:before,a.after:hover:after
   width:100%;
 /*Link highlighting ends here**/
 
-for $textColor, $color in $colors
-    .{$textColor}
-        color: $color
