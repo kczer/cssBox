@@ -1,0 +1,52 @@
+.navbarleft
+    //margin: 3em 0 0;
+    position: absolute;
+    left:0;
+    top:0;
+    height:100%;
+    ul
+        list-style: none; 
+        width: 94%; 
+        margin: 0 auto;
+        li
+            width: 50%; 
+            font-size: 1.0rem; 
+            margin: 0 0 1em; 
+            color: #aaa;
+            display:block;
+            .partA
+                display: block; 
+                font-size: 1.4rem; 
+                font-weight: bold; 
+                margin: 0 0 0.24em; 
+                text-transform: uppercase; 
+                letter-spacing: 0.1em; 
+                position: relative;
+            .partA:hover
+                font-style: italic;
+            .partA:after
+                background: none; 
+                opacity: 0;
+            .partB
+                color: #7989a3;
+    ul:after
+        content: "."; 
+        display: block; 
+        height: 0; 
+        clear: both; 
+        visibility: hidden; 
+        
+                
+            
+.navbarlefttitle
+    position: fixed;
+    top: 0;
+    left: 0;
+
+for i in 1...30
+    .sidebarleft-padding-{i}
+        padding-right: (i)rem
+        
+for i in 1...30
+    .sidebarright-padding-{i}
+        padding-left: (i)rem

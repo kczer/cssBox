@@ -260,6 +260,120 @@ a:active {
 a:hover {
   color: #d73444;
 }
+.column-1 {
+  width: 60px;
+}
+.column-2 {
+  width: 140px;
+}
+.column-3 {
+  width: 220px;
+}
+.column-4 {
+  width: 300px;
+}
+.column-5 {
+  width: 380px;
+}
+.column-6 {
+  width: 460px;
+}
+.column-7 {
+  width: 540px;
+}
+.column-8 {
+  width: 620px;
+}
+.column-9 {
+  width: 700px;
+}
+.column-10 {
+  width: 780px;
+}
+.column-11 {
+  width: 860px;
+}
+.column-12 {
+  width: 940px;
+}
+@media only screen and (min-width: 760px) and (max-width: 1000px) {
+  .column-1 {
+    width: 40px;
+  }
+  .column-2 {
+    width: 100px;
+  }
+  .column-3 {
+    width: 160px;
+  }
+  .column-4 {
+    width: 220px;
+  }
+  .column-5 {
+    width: 280px;
+  }
+  .column-6 {
+    width: 340px;
+  }
+  .column-7 {
+    width: 400px;
+  }
+  .column-8 {
+    width: 460px;
+  }
+  .column-9 {
+    width: 520px;
+  }
+  .column-10 {
+    width: 580px;
+  }
+  .column-11 {
+    width: 640px;
+  }
+  .column-12 {
+    width: 700px;
+  }
+}
+@media only screen and (max-width: 760px) {
+  .column-1 {
+    width: 40px;
+  }
+  .column-2 {
+    width: 100px;
+  }
+  .column-3 {
+    width: 160px;
+  }
+  .column-4 {
+    width: 220px;
+  }
+  .column-5 {
+    width: 280px;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 760px) {
+  .column-1 {
+    width: 40px;
+  }
+  .column-2 {
+    width: 100px;
+  }
+  .column-3 {
+    width: 160px;
+  }
+  .column-4 {
+    width: 220px;
+  }
+  .column-5 {
+    width: 280px;
+  }
+  .column-6 {
+    width: 340px;
+  }
+  .column-7 {
+    width: 400px;
+  }
+}
 .AliceBlue {
   color: #f0f8ff;
 }
@@ -2485,6 +2599,271 @@ a.after:hover:after {
 .footer-padding-19 {
   padding-bottom: 19rem;
 }
+.navbarleft {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+}
+.navbarleft ul {
+  list-style: none;
+  width: 94%;
+  margin: 0 auto;
+}
+.navbarleft ul li {
+  width: 50%;
+  font-size: 1rem;
+  margin: 0 0 1em;
+  color: #aaa;
+  display: block;
+}
+.navbarleft ul li .partA {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 0 0 0.24em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  position: relative;
+}
+.navbarleft ul li .partA:hover {
+  font-style: italic;
+}
+.navbarleft ul li .partA:after {
+  background: none;
+  opacity: 0;
+}
+.navbarleft ul li .partB {
+  color: #7989a3;
+}
+.navbarleft ul:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.navbarlefttitle {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.sidebarleft-padding-1 {
+  padding-right: 1rem;
+}
+.sidebarleft-padding-2 {
+  padding-right: 2rem;
+}
+.sidebarleft-padding-3 {
+  padding-right: 3rem;
+}
+.sidebarleft-padding-4 {
+  padding-right: 4rem;
+}
+.sidebarleft-padding-5 {
+  padding-right: 5rem;
+}
+.sidebarleft-padding-6 {
+  padding-right: 6rem;
+}
+.sidebarleft-padding-7 {
+  padding-right: 7rem;
+}
+.sidebarleft-padding-8 {
+  padding-right: 8rem;
+}
+.sidebarleft-padding-9 {
+  padding-right: 9rem;
+}
+.sidebarleft-padding-10 {
+  padding-right: 10rem;
+}
+.sidebarleft-padding-11 {
+  padding-right: 11rem;
+}
+.sidebarleft-padding-12 {
+  padding-right: 12rem;
+}
+.sidebarleft-padding-13 {
+  padding-right: 13rem;
+}
+.sidebarleft-padding-14 {
+  padding-right: 14rem;
+}
+.sidebarleft-padding-15 {
+  padding-right: 15rem;
+}
+.sidebarleft-padding-16 {
+  padding-right: 16rem;
+}
+.sidebarleft-padding-17 {
+  padding-right: 17rem;
+}
+.sidebarleft-padding-18 {
+  padding-right: 18rem;
+}
+.sidebarleft-padding-19 {
+  padding-right: 19rem;
+}
+.sidebarleft-padding-20 {
+  padding-right: 20rem;
+}
+.sidebarleft-padding-21 {
+  padding-right: 21rem;
+}
+.sidebarleft-padding-22 {
+  padding-right: 22rem;
+}
+.sidebarleft-padding-23 {
+  padding-right: 23rem;
+}
+.sidebarleft-padding-24 {
+  padding-right: 24rem;
+}
+.sidebarleft-padding-25 {
+  padding-right: 25rem;
+}
+.sidebarleft-padding-26 {
+  padding-right: 26rem;
+}
+.sidebarleft-padding-27 {
+  padding-right: 27rem;
+}
+.sidebarleft-padding-28 {
+  padding-right: 28rem;
+}
+.sidebarleft-padding-29 {
+  padding-right: 29rem;
+}
+.sidebarright-padding-1 {
+  padding-left: 1rem;
+}
+.sidebarright-padding-2 {
+  padding-left: 2rem;
+}
+.sidebarright-padding-3 {
+  padding-left: 3rem;
+}
+.sidebarright-padding-4 {
+  padding-left: 4rem;
+}
+.sidebarright-padding-5 {
+  padding-left: 5rem;
+}
+.sidebarright-padding-6 {
+  padding-left: 6rem;
+}
+.sidebarright-padding-7 {
+  padding-left: 7rem;
+}
+.sidebarright-padding-8 {
+  padding-left: 8rem;
+}
+.sidebarright-padding-9 {
+  padding-left: 9rem;
+}
+.sidebarright-padding-10 {
+  padding-left: 10rem;
+}
+.sidebarright-padding-11 {
+  padding-left: 11rem;
+}
+.sidebarright-padding-12 {
+  padding-left: 12rem;
+}
+.sidebarright-padding-13 {
+  padding-left: 13rem;
+}
+.sidebarright-padding-14 {
+  padding-left: 14rem;
+}
+.sidebarright-padding-15 {
+  padding-left: 15rem;
+}
+.sidebarright-padding-16 {
+  padding-left: 16rem;
+}
+.sidebarright-padding-17 {
+  padding-left: 17rem;
+}
+.sidebarright-padding-18 {
+  padding-left: 18rem;
+}
+.sidebarright-padding-19 {
+  padding-left: 19rem;
+}
+.sidebarright-padding-20 {
+  padding-left: 20rem;
+}
+.sidebarright-padding-21 {
+  padding-left: 21rem;
+}
+.sidebarright-padding-22 {
+  padding-left: 22rem;
+}
+.sidebarright-padding-23 {
+  padding-left: 23rem;
+}
+.sidebarright-padding-24 {
+  padding-left: 24rem;
+}
+.sidebarright-padding-25 {
+  padding-left: 25rem;
+}
+.sidebarright-padding-26 {
+  padding-left: 26rem;
+}
+.sidebarright-padding-27 {
+  padding-left: 27rem;
+}
+.sidebarright-padding-28 {
+  padding-left: 28rem;
+}
+.sidebarright-padding-29 {
+  padding-left: 29rem;
+}
+.navbarright {
+  position: absolute;
+  right: 0;
+  top: 0;
+  float: right;
+  height: 100%;
+}
+.navbarright ul {
+  list-style: none;
+  width: 94%;
+  margin: 0 auto;
+}
+.navbarright ul li {
+  width: 50%;
+  font-size: 1rem;
+  margin: 0 0 1em;
+  color: #aaa;
+  display: block;
+}
+.navbarright ul li a {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin: 0 0 0.24em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  position: relative;
+}
+.navbarright ul li a:hover {
+  font-style: italic;
+}
+.navbarright ul li a:after {
+  background: none;
+  opacity: 0;
+}
+.navbarright ul:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
 .navbarfixed {
   top: 0;
   position: fixed;
@@ -2512,8 +2891,9 @@ a.after:hover:after {
 }
 .title {
   position: fixed;
+  color: #fff;
   top: 0;
-  left: 0;
+  left: 5px;
 }
 .navbar-padding-1 {
   padding-top: 1rem;
@@ -2541,6 +2921,9 @@ a.after:hover:after {
 }
 .navbar-padding-9 {
   padding-top: 9rem;
+}
+.invisible {
+  visibility: hidden;
 }
 .alignCenter {
   text-align: center;
