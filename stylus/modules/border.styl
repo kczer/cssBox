@@ -1,0 +1,82 @@
+@import 'globalvariables'
+
+for i in 1...20
+    .border-radius-{i}
+        border-radius: (i)px
+        
+for i in 1...20
+    .border-top-left-radius-{i}
+        border-top-left-radius: (i)px
+
+for i in 1...20
+    .border-top-right-radius-{i}
+        border-top-right-radius: (i)px
+
+for i in 1...20
+    .border-bottom-left-radius-{i}
+        border-bottom-left-radius: (i)px
+        
+for i in 1...20
+    .border-bottom-right-radius-{i}
+        border-bottom-right-radius: (i)px
+        
+for $borderColor, $color in $colors
+    .border-{$borderColor}
+        border-color: $color
+
+for $borderColor, $color in $colors
+    .border-top-{$borderColor}
+        border-top-color: $color
+
+for $borderColor, $color in $colors
+    .border-bottom-{$borderColor}
+        border-bottom-color: $color
+
+for $borderColor, $color in $colors
+    .border-left-{$borderColor}
+        border-left-color: $color
+
+for $borderColor, $color in $colors
+    .border-right-{$borderColor}
+        border-right-color: $color        
+        
+for i in 1...20
+    .border-thickness-{i}
+        border-width: (i)px
+
+for i in 1...20
+    .border-top-thickness-{i}
+        border-top-width: (i)px
+
+for i in 1...20
+    .border-bottom-thickness-{i}
+        border-bottom-width: (i)px
+
+for i in 1...20
+    .border-left-thickness-{i}
+        border-left-width: (i)px
+
+for i in 1...20
+    .border-right-thickness-{i}
+        border-right-width: (i)px
+        
+for $borderStyle, $style in $setBorderStyle
+    .border-style-{$borderStyle}
+        border-style: $style
+
+for $borderStyle, $style in $setBorderStyle
+    .border-bottom-style-{$borderStyle}
+        border-bottom-style: $style
+        
+for $borderStyle, $style in $setBorderStyle
+    .border-top-style-{$borderStyle}
+        border-top-style: $style        
+
+for $borderStyle, $style in $setBorderStyle
+    .border-left-style-{$borderStyle}
+        border-left-style: $style
+
+for $borderStyle, $style in $setBorderStyle
+    .border-right-style-{$borderStyle}
+        border-right-style: $style        
+        
