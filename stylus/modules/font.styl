@@ -1,0 +1,19 @@
+@import 'globalvariables'
+
+for $fontName, $font in $setSansSerifFonts
+    .set-sans-serif-font-{$fontName}
+        font-family: $font, sans-serif
+        
+for $fontName, $font in $setSerifFonts
+    .set-serif-font-{$fontName}
+        font-family: $font, serif
+
+for $fontName, $font in $setSerifFontComplements
+    .complement-serif-font-{$fontName}
+        font-family: $font, sans-serif
+        
+for $fontName, $font in $setSansSerifFontComplements
+    .complement-serif-font-{$fontName}
+        font-family: $font, serif
+
+        

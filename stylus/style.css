@@ -1,3 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+@import url("https://fonts.googleapis.com/css?family=Old+Standard+TT");
+@import url("https://fonts.googleapis.com/css?family=Fjalla+One");
+@import url("https://fonts.googleapis.com/css?family=Average");
+@import url("https://fonts.googleapis.com/css?family=Istok+Web");
+@import url("https://fonts.googleapis.com/css?family=Lora");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Merriweather");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Cardo");
+@import url("https://fonts.googleapis.com/css?family=Crimson+Text");
+@import url("https://fonts.googleapis.com/css?family=Domine");
+@import url("https://fonts.googleapis.com/css?family=Neuton");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+@import url("https://fonts.googleapis.com/css?family=Muli");
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css?family=Alegreya");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Gentium+Book+Basic");
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display+SC");
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+@import url("https://fonts.googleapis.com/css?family=Quattrocento");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans");
+@import url("https://fonts.googleapis.com/css?family=PT+Serif");
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
 /* normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
@@ -3414,4 +3445,184 @@ a.after:hover:after {
 .complement-text-YellowGreen {
   color: #9acd32;
   background-color: #6532cd;
+}
+.set-sans-serif-font-Cabin {
+  font-family: 'Cabin', sans-serif;
+}
+.set-sans-serif-font-Montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+.set-sans-serif-font-Muli {
+  font-family: 'Muli', sans-serif;
+}
+.set-sans-serif-font-Oswald {
+  font-family: 'Oswald', sans-serif;
+}
+.set-sans-serif-font-Raleway {
+  font-family: 'Raleway', sans-serif;
+}
+.set-sans-serif-font-Ubuntu {
+  font-family: 'Ubuntu', sans-serif;
+}
+.set-sans-serif-font-Fjalla-One {
+  font-family: 'Fjalla One', sans-serif;
+}
+.set-sans-serif-font-Istok-Web {
+  font-family: 'Istok Web', sans-serif;
+}
+.set-sans-serif-font-Joesefin-Sans {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.set-sans-serif-font-Lato {
+  font-family: 'Lato', sans-serif;
+}
+.set-sans-serif-font-Nunito {
+  font-family: 'Nunito', sans-serif;
+}
+.set-sans-serif-font-Open-Sans {
+  font-family: 'Open Sans', sans-serif;
+}
+.set-sans-serif-font-PT-Sans {
+  font-family: 'PT Sans', sans-serif;
+}
+.set-sans-serif-font-Quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+.set-serif-font-Old-Standard-TT {
+  font-family: 'Old Standard TT', serif;
+}
+.set-serif-font-Average {
+  font-family: 'Average', serif;
+}
+.set-serif-font-Lora {
+  font-family: 'Lora', serif;
+}
+.set-serif-font-Playfair-Display {
+  font-family: 'Playfair Display', serif;
+}
+.set-serif-font-Merriweather {
+  font-family: 'Merriweather', serif;
+}
+.set-serif-font-Cardo {
+  font-family: 'Cardo', serif;
+}
+.set-serif-font-Crimson-Text {
+  font-family: 'Crimson Text', serif;
+}
+.set-serif-font-Domine {
+  font-family: 'Domine', serif;
+}
+.set-serif-font-Neuton {
+  font-family: 'Neuton', serif;
+}
+.set-serif-font-Alegreya {
+  font-family: 'Alegreya', serif;
+}
+.set-serif-font-Gentium-Book-Basic {
+  font-family: 'Gentium Book Basic', serif;
+}
+.set-serif-font-Libre-Baskerville {
+  font-family: 'Libre Baskerville', serif;
+}
+.set-serif-font-Playfair-Display-SC {
+  font-family: 'Playfair Display SC', serif;
+}
+.set-serif-font-Quattrocento {
+  font-family: 'Quattrocento', serif;
+}
+.set-serif-font-PT-Serif {
+  font-family: 'PT Serif', serif;
+}
+.set-serif-font-EB-Garamond {
+  font-family: 'EB Garamond', serif;
+}
+.complement-serif-font-Old-Standard-TT {
+  font-family: 'Cabin', sans-serif;
+}
+.complement-serif-font-Average {
+  font-family: 'Fjalla One', sans-serif;
+}
+.complement-serif-font-Lora {
+  font-family: 'Istok Web', sans-serif;
+}
+.complement-serif-font-Playfair-Display {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.complement-serif-font-Merriweather {
+  font-family: 'Lato', sans-serif;
+}
+.complement-serif-font-Cardo {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Crimson-Text {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Domine {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Neuton {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Alegreya {
+  font-family: 'Nunito', sans-serif;
+}
+.complement-serif-font-Gentium-Book-Basic {
+  font-family: 'Open Sans', sans-serif;
+}
+.complement-serif-font-Libre-Baskerville {
+  font-family: 'Open Sans', sans-serif;
+}
+.complement-serif-font-Playfair-Display-SC {
+  font-family: 'Open Sans', sans-serif;
+}
+.complement-serif-font-Quattrocento {
+  font-family: 'Oswald', sans-serif;
+}
+.complement-serif-font-PT-Serif {
+  font-family: 'PT Sans', sans-serif;
+}
+.complement-serif-font-EB-Garamond {
+  font-family: 'Quicksand', sans-serif;
+}
+.complement-serif-font-Cabin {
+  font-family: 'Old Standard TT', serif;
+}
+.complement-serif-font-Montserrat {
+  font-family: 'Playfair Display', serif;
+}
+.complement-serif-font-Muli {
+  font-family: 'Playfair Display', serif;
+}
+.complement-serif-font-Oswald {
+  font-family: 'Merriweather', serif;
+}
+.complement-serif-font-Raleway {
+  font-family: 'Merriweather', serif;
+}
+.complement-serif-font-Ubuntu {
+  font-family: 'Lora', serif;
+}
+.complement-serif-font-Fjalla-One {
+  font-family: 'Average', serif;
+}
+.complement-serif-font-Istok-Web {
+  font-family: 'Lora', serif;
+}
+.complement-serif-font-Joesefin-Sans {
+  font-family: 'Playfair Display', serif;
+}
+.complement-serif-font-Lato {
+  font-family: 'Merriweather', serif;
+}
+.complement-serif-font-Nunito {
+  font-family: 'Alegreya', serif;
+}
+.complement-serif-font-Open-Sans {
+  font-family: 'Gentium Book Basic', serif;
+}
+.complement-serif-font-PT-Sans {
+  font-family: 'PT Serif', serif;
+}
+.complement-serif-font-Quicksand {
+  font-family: 'EB Garamond', serif;
 }

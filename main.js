@@ -1,5 +1,5 @@
-var style1 = [['h1', 'complement-background-IndianRed']];
-var style2 = [['h1', 'complement-text-IndianRed']];
+var style1 = [['h1', 'set-serif-font-Old-Standard-TT']];
+var style2 = [['h1', 'complement-serif-font-Old-Standard-TT']];
 var styles = [style1, style2];
 var currentStyleIndex = -1;
 
