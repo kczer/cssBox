@@ -249,7 +249,6 @@ a:hover {
   position: relative;
   transition: 0.5s color ease;
   text-decoration: none;
-  font-size: 1em;
 }
 a:active {
   -webkit-backface-visibility: hidden;
@@ -2359,6 +2358,9 @@ a:hover {
 .background-image-based {
   background-image: url("http://www.beat.com.au/sites/default/files/styles/article_top_large/public/images/article/header/2013/april/lilb.jpg?itok=AYw2n3yq");
 }
+.background-image-zen {
+  background-image: url("http://gettingtozen.com/images/zenPlant2013Final1.png");
+}
 .background-repeat-repeat {
   background-repeat: repeat;
 }
@@ -2575,7 +2577,6 @@ a.after:hover:after {
 }
 .navbarleft ul li .partA {
   display: block;
-  font-size: 1.4rem;
   font-weight: bold;
   margin: 0 0 0.24em;
   text-transform: uppercase;
@@ -2619,7 +2620,6 @@ a.after:hover:after {
 }
 .navbarleftfixed ul li .partA {
   display: block;
-  font-size: 1.4rem;
   font-weight: bold;
   margin: 0 0 0.24em;
   text-transform: uppercase;
