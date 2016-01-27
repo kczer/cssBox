@@ -1,0 +1,14 @@
+@import 'globalvariables'
+
+for $fontSize, $size in $setFontSize
+    .font-size-{$fontSize}
+        font-size: $size
+        
+for $backgroundSize, $size in $setBackgroundSize
+    .background-size-{$backgroundSize}
+        background-size: $size
+        
+for i in 1...10
+    .background-size-percent-{(10 * i)}
+        background-size: (10 * i)%
+        

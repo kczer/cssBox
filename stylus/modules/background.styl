@@ -1,0 +1,29 @@
+@import 'globalvariables'
+
+.background-fixed
+    background-attachment: fixed;
+
+
+for $textColor, $color in $colors
+    .background-{$textColor}
+        background-color: $color
+        
+for $textColor, $color in $colors
+    .complement-background-{$textColor}
+        background-color: $color
+        color: complement($color)
+        
+for $bgImage, $bgImg in $setBackgroundImages
+    .background-image-{$bgImage}
+        background-image: url($bgImg)
+        
+for $bgRepeat, $bgRep in $setBackgroundRepeat
+    .background-repeat-{$bgRepeat}
+        background-repeat: $bgRep        
+
+for $bgPosition, $bgPos in $setBackgroundPosition
+    .background-position-{$bgPosition}
+        background-position: $bgPos        
+
+
+        
