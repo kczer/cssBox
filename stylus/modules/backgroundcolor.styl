@@ -1,12 +1,12 @@
-$colors = {
-redColor: red
-orangeColor: orange 
-yellowColor: yellow
-greenColor: green
-blueColor: blue
-purpleColor: purple
-}
+@import 'globalvariables'
 
 for $textColor, $color in $colors
     .background-{$textColor}
         background-color: $color
+//comments
+for $textColor, $color in $colors
+    .complement-background-{$textColor}
+        background-color: $color
+        color: complement($color)
+
+        

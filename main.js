@@ -1,5 +1,5 @@
-var style1 = [['h1', 'redColor']];
-var style2 = [['#zen-intro', 'purpleColor']];
+var style1 = [['h1', 'complement-background-IndianRed']];
+var style2 = [['h1', 'complement-text-IndianRed']];
 var styles = [style1, style2];
 var currentStyleIndex = -1;
 
