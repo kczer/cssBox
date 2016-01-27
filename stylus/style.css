@@ -1,3 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+@import url("https://fonts.googleapis.com/css?family=Old+Standard+TT");
+@import url("https://fonts.googleapis.com/css?family=Fjalla+One");
+@import url("https://fonts.googleapis.com/css?family=Average");
+@import url("https://fonts.googleapis.com/css?family=Istok+Web");
+@import url("https://fonts.googleapis.com/css?family=Lora");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Merriweather");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Cardo");
+@import url("https://fonts.googleapis.com/css?family=Crimson+Text");
+@import url("https://fonts.googleapis.com/css?family=Domine");
+@import url("https://fonts.googleapis.com/css?family=Neuton");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+@import url("https://fonts.googleapis.com/css?family=Muli");
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+@import url("https://fonts.googleapis.com/css?family=Alegreya");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+@import url("https://fonts.googleapis.com/css?family=Gentium+Book+Basic");
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville");
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display+SC");
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+@import url("https://fonts.googleapis.com/css?family=Quattrocento");
+@import url("https://fonts.googleapis.com/css?family=PT+Sans");
+@import url("https://fonts.googleapis.com/css?family=PT+Serif");
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=EB+Garamond");
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
 /* normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
   font-family: sans-serif;
@@ -3555,4 +3586,3154 @@ a.after:hover:after {
 .complement-text-YellowGreen {
   color: #9acd32;
   background-color: #6532cd;
+}
+.set-sans-serif-font-Cabin {
+  font-family: 'Cabin', sans-serif;
+}
+.set-sans-serif-font-Montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+.set-sans-serif-font-Muli {
+  font-family: 'Muli', sans-serif;
+}
+.set-sans-serif-font-Oswald {
+  font-family: 'Oswald', sans-serif;
+}
+.set-sans-serif-font-Raleway {
+  font-family: 'Raleway', sans-serif;
+}
+.set-sans-serif-font-Ubuntu {
+  font-family: 'Ubuntu', sans-serif;
+}
+.set-sans-serif-font-Fjalla-One {
+  font-family: 'Fjalla One', sans-serif;
+}
+.set-sans-serif-font-Istok-Web {
+  font-family: 'Istok Web', sans-serif;
+}
+.set-sans-serif-font-Joesefin-Sans {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.set-sans-serif-font-Lato {
+  font-family: 'Lato', sans-serif;
+}
+.set-sans-serif-font-Nunito {
+  font-family: 'Nunito', sans-serif;
+}
+.set-sans-serif-font-Open-Sans {
+  font-family: 'Open Sans', sans-serif;
+}
+.set-sans-serif-font-PT-Sans {
+  font-family: 'PT Sans', sans-serif;
+}
+.set-sans-serif-font-Quicksand {
+  font-family: 'Quicksand', sans-serif;
+}
+.set-serif-font-Old-Standard-TT {
+  font-family: 'Old Standard TT', serif;
+}
+.set-serif-font-Average {
+  font-family: 'Average', serif;
+}
+.set-serif-font-Lora {
+  font-family: 'Lora', serif;
+}
+.set-serif-font-Playfair-Display {
+  font-family: 'Playfair Display', serif;
+}
+.set-serif-font-Merriweather {
+  font-family: 'Merriweather', serif;
+}
+.set-serif-font-Cardo {
+  font-family: 'Cardo', serif;
+}
+.set-serif-font-Crimson-Text {
+  font-family: 'Crimson Text', serif;
+}
+.set-serif-font-Domine {
+  font-family: 'Domine', serif;
+}
+.set-serif-font-Neuton {
+  font-family: 'Neuton', serif;
+}
+.set-serif-font-Alegreya {
+  font-family: 'Alegreya', serif;
+}
+.set-serif-font-Gentium-Book-Basic {
+  font-family: 'Gentium Book Basic', serif;
+}
+.set-serif-font-Libre-Baskerville {
+  font-family: 'Libre Baskerville', serif;
+}
+.set-serif-font-Playfair-Display-SC {
+  font-family: 'Playfair Display SC', serif;
+}
+.set-serif-font-Quattrocento {
+  font-family: 'Quattrocento', serif;
+}
+.set-serif-font-PT-Serif {
+  font-family: 'PT Serif', serif;
+}
+.set-serif-font-EB-Garamond {
+  font-family: 'EB Garamond', serif;
+}
+.complement-serif-font-Old-Standard-TT {
+  font-family: 'Cabin', sans-serif;
+}
+.complement-serif-font-Average {
+  font-family: 'Fjalla One', sans-serif;
+}
+.complement-serif-font-Lora {
+  font-family: 'Istok Web', sans-serif;
+}
+.complement-serif-font-Playfair-Display {
+  font-family: 'Josefin Sans', sans-serif;
+}
+.complement-serif-font-Merriweather {
+  font-family: 'Lato', sans-serif;
+}
+.complement-serif-font-Cardo {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Crimson-Text {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Domine {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Neuton {
+  font-family: 'Montserrat', sans-serif;
+}
+.complement-serif-font-Alegreya {
+  font-family: 'Nunito', sans-serif;
+}
+.complement-serif-font-Gentium-Book-Basic {
+  font-family: 'Open Sans', sans-serif;
+}
+.complement-serif-font-Libre-Baskerville {
+  font-family: 'Open Sans', sans-serif;
+}
+.complement-serif-font-Playfair-Display-SC {
+  font-family: 'Open Sans', sans-serif;
+}
+.complement-serif-font-Quattrocento {
+  font-family: 'Oswald', sans-serif;
+}
+.complement-serif-font-PT-Serif {
+  font-family: 'PT Sans', sans-serif;
+}
+.complement-serif-font-EB-Garamond {
+  font-family: 'Quicksand', sans-serif;
+}
+.complement-serif-font-Cabin {
+  font-family: 'Old Standard TT', serif;
+}
+.complement-serif-font-Montserrat {
+  font-family: 'Playfair Display', serif;
+}
+.complement-serif-font-Muli {
+  font-family: 'Playfair Display', serif;
+}
+.complement-serif-font-Oswald {
+  font-family: 'Merriweather', serif;
+}
+.complement-serif-font-Raleway {
+  font-family: 'Merriweather', serif;
+}
+.complement-serif-font-Ubuntu {
+  font-family: 'Lora', serif;
+}
+.complement-serif-font-Fjalla-One {
+  font-family: 'Average', serif;
+}
+.complement-serif-font-Istok-Web {
+  font-family: 'Lora', serif;
+}
+.complement-serif-font-Joesefin-Sans {
+  font-family: 'Playfair Display', serif;
+}
+.complement-serif-font-Lato {
+  font-family: 'Merriweather', serif;
+}
+.complement-serif-font-Nunito {
+  font-family: 'Alegreya', serif;
+}
+.complement-serif-font-Open-Sans {
+  font-family: 'Gentium Book Basic', serif;
+}
+.complement-serif-font-PT-Sans {
+  font-family: 'PT Serif', serif;
+}
+.complement-serif-font-Quicksand {
+  font-family: 'EB Garamond', serif;
+}
+.border-radius-1 {
+  border-radius: 1px;
+}
+.border-radius-2 {
+  border-radius: 2px;
+}
+.border-radius-3 {
+  border-radius: 3px;
+}
+.border-radius-4 {
+  border-radius: 4px;
+}
+.border-radius-5 {
+  border-radius: 5px;
+}
+.border-radius-6 {
+  border-radius: 6px;
+}
+.border-radius-7 {
+  border-radius: 7px;
+}
+.border-radius-8 {
+  border-radius: 8px;
+}
+.border-radius-9 {
+  border-radius: 9px;
+}
+.border-radius-10 {
+  border-radius: 10px;
+}
+.border-radius-11 {
+  border-radius: 11px;
+}
+.border-radius-12 {
+  border-radius: 12px;
+}
+.border-radius-13 {
+  border-radius: 13px;
+}
+.border-radius-14 {
+  border-radius: 14px;
+}
+.border-radius-15 {
+  border-radius: 15px;
+}
+.border-radius-16 {
+  border-radius: 16px;
+}
+.border-radius-17 {
+  border-radius: 17px;
+}
+.border-radius-18 {
+  border-radius: 18px;
+}
+.border-radius-19 {
+  border-radius: 19px;
+}
+.border-top-left-radius-1 {
+  border-top-left-radius: 1px;
+}
+.border-top-left-radius-2 {
+  border-top-left-radius: 2px;
+}
+.border-top-left-radius-3 {
+  border-top-left-radius: 3px;
+}
+.border-top-left-radius-4 {
+  border-top-left-radius: 4px;
+}
+.border-top-left-radius-5 {
+  border-top-left-radius: 5px;
+}
+.border-top-left-radius-6 {
+  border-top-left-radius: 6px;
+}
+.border-top-left-radius-7 {
+  border-top-left-radius: 7px;
+}
+.border-top-left-radius-8 {
+  border-top-left-radius: 8px;
+}
+.border-top-left-radius-9 {
+  border-top-left-radius: 9px;
+}
+.border-top-left-radius-10 {
+  border-top-left-radius: 10px;
+}
+.border-top-left-radius-11 {
+  border-top-left-radius: 11px;
+}
+.border-top-left-radius-12 {
+  border-top-left-radius: 12px;
+}
+.border-top-left-radius-13 {
+  border-top-left-radius: 13px;
+}
+.border-top-left-radius-14 {
+  border-top-left-radius: 14px;
+}
+.border-top-left-radius-15 {
+  border-top-left-radius: 15px;
+}
+.border-top-left-radius-16 {
+  border-top-left-radius: 16px;
+}
+.border-top-left-radius-17 {
+  border-top-left-radius: 17px;
+}
+.border-top-left-radius-18 {
+  border-top-left-radius: 18px;
+}
+.border-top-left-radius-19 {
+  border-top-left-radius: 19px;
+}
+.border-top-right-radius-1 {
+  border-top-right-radius: 1px;
+}
+.border-top-right-radius-2 {
+  border-top-right-radius: 2px;
+}
+.border-top-right-radius-3 {
+  border-top-right-radius: 3px;
+}
+.border-top-right-radius-4 {
+  border-top-right-radius: 4px;
+}
+.border-top-right-radius-5 {
+  border-top-right-radius: 5px;
+}
+.border-top-right-radius-6 {
+  border-top-right-radius: 6px;
+}
+.border-top-right-radius-7 {
+  border-top-right-radius: 7px;
+}
+.border-top-right-radius-8 {
+  border-top-right-radius: 8px;
+}
+.border-top-right-radius-9 {
+  border-top-right-radius: 9px;
+}
+.border-top-right-radius-10 {
+  border-top-right-radius: 10px;
+}
+.border-top-right-radius-11 {
+  border-top-right-radius: 11px;
+}
+.border-top-right-radius-12 {
+  border-top-right-radius: 12px;
+}
+.border-top-right-radius-13 {
+  border-top-right-radius: 13px;
+}
+.border-top-right-radius-14 {
+  border-top-right-radius: 14px;
+}
+.border-top-right-radius-15 {
+  border-top-right-radius: 15px;
+}
+.border-top-right-radius-16 {
+  border-top-right-radius: 16px;
+}
+.border-top-right-radius-17 {
+  border-top-right-radius: 17px;
+}
+.border-top-right-radius-18 {
+  border-top-right-radius: 18px;
+}
+.border-top-right-radius-19 {
+  border-top-right-radius: 19px;
+}
+.border-bottom-left-radius-1 {
+  border-bottom-left-radius: 1px;
+}
+.border-bottom-left-radius-2 {
+  border-bottom-left-radius: 2px;
+}
+.border-bottom-left-radius-3 {
+  border-bottom-left-radius: 3px;
+}
+.border-bottom-left-radius-4 {
+  border-bottom-left-radius: 4px;
+}
+.border-bottom-left-radius-5 {
+  border-bottom-left-radius: 5px;
+}
+.border-bottom-left-radius-6 {
+  border-bottom-left-radius: 6px;
+}
+.border-bottom-left-radius-7 {
+  border-bottom-left-radius: 7px;
+}
+.border-bottom-left-radius-8 {
+  border-bottom-left-radius: 8px;
+}
+.border-bottom-left-radius-9 {
+  border-bottom-left-radius: 9px;
+}
+.border-bottom-left-radius-10 {
+  border-bottom-left-radius: 10px;
+}
+.border-bottom-left-radius-11 {
+  border-bottom-left-radius: 11px;
+}
+.border-bottom-left-radius-12 {
+  border-bottom-left-radius: 12px;
+}
+.border-bottom-left-radius-13 {
+  border-bottom-left-radius: 13px;
+}
+.border-bottom-left-radius-14 {
+  border-bottom-left-radius: 14px;
+}
+.border-bottom-left-radius-15 {
+  border-bottom-left-radius: 15px;
+}
+.border-bottom-left-radius-16 {
+  border-bottom-left-radius: 16px;
+}
+.border-bottom-left-radius-17 {
+  border-bottom-left-radius: 17px;
+}
+.border-bottom-left-radius-18 {
+  border-bottom-left-radius: 18px;
+}
+.border-bottom-left-radius-19 {
+  border-bottom-left-radius: 19px;
+}
+.border-bottom-right-radius-1 {
+  border-bottom-right-radius: 1px;
+}
+.border-bottom-right-radius-2 {
+  border-bottom-right-radius: 2px;
+}
+.border-bottom-right-radius-3 {
+  border-bottom-right-radius: 3px;
+}
+.border-bottom-right-radius-4 {
+  border-bottom-right-radius: 4px;
+}
+.border-bottom-right-radius-5 {
+  border-bottom-right-radius: 5px;
+}
+.border-bottom-right-radius-6 {
+  border-bottom-right-radius: 6px;
+}
+.border-bottom-right-radius-7 {
+  border-bottom-right-radius: 7px;
+}
+.border-bottom-right-radius-8 {
+  border-bottom-right-radius: 8px;
+}
+.border-bottom-right-radius-9 {
+  border-bottom-right-radius: 9px;
+}
+.border-bottom-right-radius-10 {
+  border-bottom-right-radius: 10px;
+}
+.border-bottom-right-radius-11 {
+  border-bottom-right-radius: 11px;
+}
+.border-bottom-right-radius-12 {
+  border-bottom-right-radius: 12px;
+}
+.border-bottom-right-radius-13 {
+  border-bottom-right-radius: 13px;
+}
+.border-bottom-right-radius-14 {
+  border-bottom-right-radius: 14px;
+}
+.border-bottom-right-radius-15 {
+  border-bottom-right-radius: 15px;
+}
+.border-bottom-right-radius-16 {
+  border-bottom-right-radius: 16px;
+}
+.border-bottom-right-radius-17 {
+  border-bottom-right-radius: 17px;
+}
+.border-bottom-right-radius-18 {
+  border-bottom-right-radius: 18px;
+}
+.border-bottom-right-radius-19 {
+  border-bottom-right-radius: 19px;
+}
+.border-AliceBlue {
+  border-color: #f0f8ff;
+}
+.border-AntiqueWhite {
+  border-color: #faebd7;
+}
+.border-Aqua {
+  border-color: #0ff;
+}
+.border-Aquamarine {
+  border-color: #7fffd4;
+}
+.border-Azure {
+  border-color: #f0ffff;
+}
+.border-Beige {
+  border-color: #f5f5dc;
+}
+.border-Bisque {
+  border-color: #ffe4c4;
+}
+.border-Black {
+  border-color: #000;
+}
+.border-BlanchedAlmond {
+  border-color: #ffebcd;
+}
+.border-Blue {
+  border-color: #00f;
+}
+.border-BlueViolet {
+  border-color: #8a2be2;
+}
+.border-Brown {
+  border-color: #a52a2a;
+}
+.border-BurlyWood {
+  border-color: #deb887;
+}
+.border-CadetBlue {
+  border-color: #5f9ea0;
+}
+.border-Chartreuse {
+  border-color: #7fff00;
+}
+.border-Chocolate {
+  border-color: #d2691e;
+}
+.border-Coral {
+  border-color: #ff7f50;
+}
+.border-CornflowerBlue {
+  border-color: #6495ed;
+}
+.border-Cornsilk {
+  border-color: #fff8dc;
+}
+.border-Crimson {
+  border-color: #dc143c;
+}
+.border-Cyan {
+  border-color: #0ff;
+}
+.border-DarkBlue {
+  border-color: #00008b;
+}
+.border-DarkCyan {
+  border-color: #008b8b;
+}
+.border-DarkGoldenRod {
+  border-color: #b8860b;
+}
+.border-DarkGray {
+  border-color: #a9a9a9;
+}
+.border-DarkGrey {
+  border-color: #a9a9a9;
+}
+.border-DarkGreen {
+  border-color: #006400;
+}
+.border-DarkKhaki {
+  border-color: #bdb76b;
+}
+.border-DarkMagenta {
+  border-color: #8b008b;
+}
+.border-DarkOliveGreen {
+  border-color: #556b2f;
+}
+.border-DarkOrange {
+  border-color: #ff8c00;
+}
+.border-DarkOrchid {
+  border-color: #9932cc;
+}
+.border-DarkRed {
+  border-color: #8b0000;
+}
+.border-DarkSalmon {
+  border-color: #e9967a;
+}
+.border-DarkSeaGreen {
+  border-color: #8fbc8f;
+}
+.border-DarkSlateBlue {
+  border-color: #483d8b;
+}
+.border-DarkSlateGray {
+  border-color: #2f4f4f;
+}
+.border-DarkSlateGrey {
+  border-color: #2f4f4f;
+}
+.border-DarkTurquoise {
+  border-color: #00ced1;
+}
+.border-DarkViolet {
+  border-color: #9400d3;
+}
+.border-DeepPink {
+  border-color: #ff1493;
+}
+.border-DeepSkyBlue {
+  border-color: #00bfff;
+}
+.border-DimGray {
+  border-color: #696969;
+}
+.border-DimGrey {
+  border-color: #696969;
+}
+.border-DodgerBlue {
+  border-color: #1e90ff;
+}
+.border-FireBrick {
+  border-color: #b22222;
+}
+.border-FloralWhite {
+  border-color: #fffaf0;
+}
+.border-ForestGreen {
+  border-color: #228b22;
+}
+.border-Fuchsia {
+  border-color: #f0f;
+}
+.border-Gainsboro {
+  border-color: #dcdcdc;
+}
+.border-GhostWhite {
+  border-color: #f8f8ff;
+}
+.border-Gold {
+  border-color: #ffd700;
+}
+.border-GoldenRod {
+  border-color: #daa520;
+}
+.border-Gray {
+  border-color: #808080;
+}
+.border-Grey {
+  border-color: #808080;
+}
+.border-Green {
+  border-color: #008000;
+}
+.border-GreenYellow {
+  border-color: #adff2f;
+}
+.border-HoneyDew {
+  border-color: #f0fff0;
+}
+.border-HotPink {
+  border-color: #ff69b4;
+}
+.border-IndianRed {
+  border-color: #cd5c5c;
+}
+.border-Indigo {
+  border-color: #4b0082;
+}
+.border-Ivory {
+  border-color: #fffff0;
+}
+.border-Khaki {
+  border-color: #f0e68c;
+}
+.border-Lavender {
+  border-color: #e6e6fa;
+}
+.border-LavenderBlush {
+  border-color: #fff0f5;
+}
+.border-LawnGreen {
+  border-color: #7cfc00;
+}
+.border-LemonChiffon {
+  border-color: #fffacd;
+}
+.border-LightBlue {
+  border-color: #add8e6;
+}
+.border-LightCoral {
+  border-color: #f08080;
+}
+.border-LightCyan {
+  border-color: #e0ffff;
+}
+.border-LightGoldenRodYellow {
+  border-color: #fafad2;
+}
+.border-LightGray {
+  border-color: #d3d3d3;
+}
+.border-LightGrey {
+  border-color: #d3d3d3;
+}
+.border-LightGreen {
+  border-color: #90ee90;
+}
+.border-LightPink {
+  border-color: #ffb6c1;
+}
+.border-LightSalmon {
+  border-color: #ffa07a;
+}
+.border-LightSeaGreen {
+  border-color: #20b2aa;
+}
+.border-LightSkyBlue {
+  border-color: #87cefa;
+}
+.border-LightSlateGray {
+  border-color: #789;
+}
+.border-LightSlateGrey {
+  border-color: #789;
+}
+.border-LightSteelBlue {
+  border-color: #b0c4de;
+}
+.border-LightYellow {
+  border-color: #ffffe0;
+}
+.border-Lime {
+  border-color: #0f0;
+}
+.border-LimeGreen {
+  border-color: #32cd32;
+}
+.border-Linen {
+  border-color: #faf0e6;
+}
+.border-Magenta {
+  border-color: #f0f;
+}
+.border-Maroon {
+  border-color: #800000;
+}
+.border-MediumAquaMarine {
+  border-color: #66cdaa;
+}
+.border-MediumBlue {
+  border-color: #0000cd;
+}
+.border-MediumOrchid {
+  border-color: #ba55d3;
+}
+.border-MediumPurple {
+  border-color: #9370db;
+}
+.border-MediumSeaGreen {
+  border-color: #3cb371;
+}
+.border-MediumSlateBlue {
+  border-color: #7b68ee;
+}
+.border-MediumSpringGreen {
+  border-color: #00fa9a;
+}
+.border-MediumTurquoise {
+  border-color: #48d1cc;
+}
+.border-MediumVioletRed {
+  border-color: #c71585;
+}
+.border-MidnightBlue {
+  border-color: #191970;
+}
+.border-MintCream {
+  border-color: #f5fffa;
+}
+.border-MistyRose {
+  border-color: #ffe4e1;
+}
+.border-Moccasin {
+  border-color: #ffe4b5;
+}
+.border-NavajoWhite {
+  border-color: #ffdead;
+}
+.border-Navy {
+  border-color: #000080;
+}
+.border-OldLace {
+  border-color: #fdf5e6;
+}
+.border-Olive {
+  border-color: #808000;
+}
+.border-OliveDrab {
+  border-color: #6b8e23;
+}
+.border-Orange {
+  border-color: #ffa500;
+}
+.border-OrangeRed {
+  border-color: #ff4500;
+}
+.border-Orchid {
+  border-color: #da70d6;
+}
+.border-PaleGoldenRod {
+  border-color: #eee8aa;
+}
+.border-PaleGreen {
+  border-color: #98fb98;
+}
+.border-PaleTurquoise {
+  border-color: #afeeee;
+}
+.border-PaleVioletRed {
+  border-color: #db7093;
+}
+.border-PapayaWhip {
+  border-color: #ffefd5;
+}
+.border-PeachPuff {
+  border-color: #ffdab9;
+}
+.border-Peru {
+  border-color: #cd853f;
+}
+.border-Pink {
+  border-color: #ffc0cb;
+}
+.border-Plum {
+  border-color: #dda0dd;
+}
+.border-PowderBlue {
+  border-color: #b0e0e6;
+}
+.border-Purple {
+  border-color: #800080;
+}
+.border-RebeccaPurple {
+  border-color: #639;
+}
+.border-Red {
+  border-color: #f00;
+}
+.border-RosyBrown {
+  border-color: #bc8f8f;
+}
+.border-RoyalBlue {
+  border-color: #4169e1;
+}
+.border-SaddleBrown {
+  border-color: #8b4513;
+}
+.border-Salmon {
+  border-color: #fa8072;
+}
+.border-SandyBrown {
+  border-color: #f4a460;
+}
+.border-SeaGreen {
+  border-color: #2e8b57;
+}
+.border-SeaShell {
+  border-color: #fff5ee;
+}
+.border-Sienna {
+  border-color: #a0522d;
+}
+.border-Silver {
+  border-color: #c0c0c0;
+}
+.border-SkyBlue {
+  border-color: #87ceeb;
+}
+.border-SlateBlue {
+  border-color: #6a5acd;
+}
+.border-SlateGray {
+  border-color: #708090;
+}
+.border-SlateGrey {
+  border-color: #708090;
+}
+.border-Snow {
+  border-color: #fffafa;
+}
+.border-SpringGreen {
+  border-color: #00ff7f;
+}
+.border-SteelBlue {
+  border-color: #4682b4;
+}
+.border-Tan {
+  border-color: #d2b48c;
+}
+.border-Teal {
+  border-color: #008080;
+}
+.border-Thistle {
+  border-color: #d8bfd8;
+}
+.border-Tomato {
+  border-color: #ff6347;
+}
+.border-Turquoise {
+  border-color: #40e0d0;
+}
+.border-Violet {
+  border-color: #ee82ee;
+}
+.border-Wheat {
+  border-color: #f5deb3;
+}
+.border-White {
+  border-color: #fff;
+}
+.border-WhiteSmoke {
+  border-color: #f5f5f5;
+}
+.border-Yellow {
+  border-color: #ff0;
+}
+.border-YellowGreen {
+  border-color: #9acd32;
+}
+.border-top-AliceBlue {
+  border-top-color: #f0f8ff;
+}
+.border-top-AntiqueWhite {
+  border-top-color: #faebd7;
+}
+.border-top-Aqua {
+  border-top-color: #0ff;
+}
+.border-top-Aquamarine {
+  border-top-color: #7fffd4;
+}
+.border-top-Azure {
+  border-top-color: #f0ffff;
+}
+.border-top-Beige {
+  border-top-color: #f5f5dc;
+}
+.border-top-Bisque {
+  border-top-color: #ffe4c4;
+}
+.border-top-Black {
+  border-top-color: #000;
+}
+.border-top-BlanchedAlmond {
+  border-top-color: #ffebcd;
+}
+.border-top-Blue {
+  border-top-color: #00f;
+}
+.border-top-BlueViolet {
+  border-top-color: #8a2be2;
+}
+.border-top-Brown {
+  border-top-color: #a52a2a;
+}
+.border-top-BurlyWood {
+  border-top-color: #deb887;
+}
+.border-top-CadetBlue {
+  border-top-color: #5f9ea0;
+}
+.border-top-Chartreuse {
+  border-top-color: #7fff00;
+}
+.border-top-Chocolate {
+  border-top-color: #d2691e;
+}
+.border-top-Coral {
+  border-top-color: #ff7f50;
+}
+.border-top-CornflowerBlue {
+  border-top-color: #6495ed;
+}
+.border-top-Cornsilk {
+  border-top-color: #fff8dc;
+}
+.border-top-Crimson {
+  border-top-color: #dc143c;
+}
+.border-top-Cyan {
+  border-top-color: #0ff;
+}
+.border-top-DarkBlue {
+  border-top-color: #00008b;
+}
+.border-top-DarkCyan {
+  border-top-color: #008b8b;
+}
+.border-top-DarkGoldenRod {
+  border-top-color: #b8860b;
+}
+.border-top-DarkGray {
+  border-top-color: #a9a9a9;
+}
+.border-top-DarkGrey {
+  border-top-color: #a9a9a9;
+}
+.border-top-DarkGreen {
+  border-top-color: #006400;
+}
+.border-top-DarkKhaki {
+  border-top-color: #bdb76b;
+}
+.border-top-DarkMagenta {
+  border-top-color: #8b008b;
+}
+.border-top-DarkOliveGreen {
+  border-top-color: #556b2f;
+}
+.border-top-DarkOrange {
+  border-top-color: #ff8c00;
+}
+.border-top-DarkOrchid {
+  border-top-color: #9932cc;
+}
+.border-top-DarkRed {
+  border-top-color: #8b0000;
+}
+.border-top-DarkSalmon {
+  border-top-color: #e9967a;
+}
+.border-top-DarkSeaGreen {
+  border-top-color: #8fbc8f;
+}
+.border-top-DarkSlateBlue {
+  border-top-color: #483d8b;
+}
+.border-top-DarkSlateGray {
+  border-top-color: #2f4f4f;
+}
+.border-top-DarkSlateGrey {
+  border-top-color: #2f4f4f;
+}
+.border-top-DarkTurquoise {
+  border-top-color: #00ced1;
+}
+.border-top-DarkViolet {
+  border-top-color: #9400d3;
+}
+.border-top-DeepPink {
+  border-top-color: #ff1493;
+}
+.border-top-DeepSkyBlue {
+  border-top-color: #00bfff;
+}
+.border-top-DimGray {
+  border-top-color: #696969;
+}
+.border-top-DimGrey {
+  border-top-color: #696969;
+}
+.border-top-DodgerBlue {
+  border-top-color: #1e90ff;
+}
+.border-top-FireBrick {
+  border-top-color: #b22222;
+}
+.border-top-FloralWhite {
+  border-top-color: #fffaf0;
+}
+.border-top-ForestGreen {
+  border-top-color: #228b22;
+}
+.border-top-Fuchsia {
+  border-top-color: #f0f;
+}
+.border-top-Gainsboro {
+  border-top-color: #dcdcdc;
+}
+.border-top-GhostWhite {
+  border-top-color: #f8f8ff;
+}
+.border-top-Gold {
+  border-top-color: #ffd700;
+}
+.border-top-GoldenRod {
+  border-top-color: #daa520;
+}
+.border-top-Gray {
+  border-top-color: #808080;
+}
+.border-top-Grey {
+  border-top-color: #808080;
+}
+.border-top-Green {
+  border-top-color: #008000;
+}
+.border-top-GreenYellow {
+  border-top-color: #adff2f;
+}
+.border-top-HoneyDew {
+  border-top-color: #f0fff0;
+}
+.border-top-HotPink {
+  border-top-color: #ff69b4;
+}
+.border-top-IndianRed {
+  border-top-color: #cd5c5c;
+}
+.border-top-Indigo {
+  border-top-color: #4b0082;
+}
+.border-top-Ivory {
+  border-top-color: #fffff0;
+}
+.border-top-Khaki {
+  border-top-color: #f0e68c;
+}
+.border-top-Lavender {
+  border-top-color: #e6e6fa;
+}
+.border-top-LavenderBlush {
+  border-top-color: #fff0f5;
+}
+.border-top-LawnGreen {
+  border-top-color: #7cfc00;
+}
+.border-top-LemonChiffon {
+  border-top-color: #fffacd;
+}
+.border-top-LightBlue {
+  border-top-color: #add8e6;
+}
+.border-top-LightCoral {
+  border-top-color: #f08080;
+}
+.border-top-LightCyan {
+  border-top-color: #e0ffff;
+}
+.border-top-LightGoldenRodYellow {
+  border-top-color: #fafad2;
+}
+.border-top-LightGray {
+  border-top-color: #d3d3d3;
+}
+.border-top-LightGrey {
+  border-top-color: #d3d3d3;
+}
+.border-top-LightGreen {
+  border-top-color: #90ee90;
+}
+.border-top-LightPink {
+  border-top-color: #ffb6c1;
+}
+.border-top-LightSalmon {
+  border-top-color: #ffa07a;
+}
+.border-top-LightSeaGreen {
+  border-top-color: #20b2aa;
+}
+.border-top-LightSkyBlue {
+  border-top-color: #87cefa;
+}
+.border-top-LightSlateGray {
+  border-top-color: #789;
+}
+.border-top-LightSlateGrey {
+  border-top-color: #789;
+}
+.border-top-LightSteelBlue {
+  border-top-color: #b0c4de;
+}
+.border-top-LightYellow {
+  border-top-color: #ffffe0;
+}
+.border-top-Lime {
+  border-top-color: #0f0;
+}
+.border-top-LimeGreen {
+  border-top-color: #32cd32;
+}
+.border-top-Linen {
+  border-top-color: #faf0e6;
+}
+.border-top-Magenta {
+  border-top-color: #f0f;
+}
+.border-top-Maroon {
+  border-top-color: #800000;
+}
+.border-top-MediumAquaMarine {
+  border-top-color: #66cdaa;
+}
+.border-top-MediumBlue {
+  border-top-color: #0000cd;
+}
+.border-top-MediumOrchid {
+  border-top-color: #ba55d3;
+}
+.border-top-MediumPurple {
+  border-top-color: #9370db;
+}
+.border-top-MediumSeaGreen {
+  border-top-color: #3cb371;
+}
+.border-top-MediumSlateBlue {
+  border-top-color: #7b68ee;
+}
+.border-top-MediumSpringGreen {
+  border-top-color: #00fa9a;
+}
+.border-top-MediumTurquoise {
+  border-top-color: #48d1cc;
+}
+.border-top-MediumVioletRed {
+  border-top-color: #c71585;
+}
+.border-top-MidnightBlue {
+  border-top-color: #191970;
+}
+.border-top-MintCream {
+  border-top-color: #f5fffa;
+}
+.border-top-MistyRose {
+  border-top-color: #ffe4e1;
+}
+.border-top-Moccasin {
+  border-top-color: #ffe4b5;
+}
+.border-top-NavajoWhite {
+  border-top-color: #ffdead;
+}
+.border-top-Navy {
+  border-top-color: #000080;
+}
+.border-top-OldLace {
+  border-top-color: #fdf5e6;
+}
+.border-top-Olive {
+  border-top-color: #808000;
+}
+.border-top-OliveDrab {
+  border-top-color: #6b8e23;
+}
+.border-top-Orange {
+  border-top-color: #ffa500;
+}
+.border-top-OrangeRed {
+  border-top-color: #ff4500;
+}
+.border-top-Orchid {
+  border-top-color: #da70d6;
+}
+.border-top-PaleGoldenRod {
+  border-top-color: #eee8aa;
+}
+.border-top-PaleGreen {
+  border-top-color: #98fb98;
+}
+.border-top-PaleTurquoise {
+  border-top-color: #afeeee;
+}
+.border-top-PaleVioletRed {
+  border-top-color: #db7093;
+}
+.border-top-PapayaWhip {
+  border-top-color: #ffefd5;
+}
+.border-top-PeachPuff {
+  border-top-color: #ffdab9;
+}
+.border-top-Peru {
+  border-top-color: #cd853f;
+}
+.border-top-Pink {
+  border-top-color: #ffc0cb;
+}
+.border-top-Plum {
+  border-top-color: #dda0dd;
+}
+.border-top-PowderBlue {
+  border-top-color: #b0e0e6;
+}
+.border-top-Purple {
+  border-top-color: #800080;
+}
+.border-top-RebeccaPurple {
+  border-top-color: #639;
+}
+.border-top-Red {
+  border-top-color: #f00;
+}
+.border-top-RosyBrown {
+  border-top-color: #bc8f8f;
+}
+.border-top-RoyalBlue {
+  border-top-color: #4169e1;
+}
+.border-top-SaddleBrown {
+  border-top-color: #8b4513;
+}
+.border-top-Salmon {
+  border-top-color: #fa8072;
+}
+.border-top-SandyBrown {
+  border-top-color: #f4a460;
+}
+.border-top-SeaGreen {
+  border-top-color: #2e8b57;
+}
+.border-top-SeaShell {
+  border-top-color: #fff5ee;
+}
+.border-top-Sienna {
+  border-top-color: #a0522d;
+}
+.border-top-Silver {
+  border-top-color: #c0c0c0;
+}
+.border-top-SkyBlue {
+  border-top-color: #87ceeb;
+}
+.border-top-SlateBlue {
+  border-top-color: #6a5acd;
+}
+.border-top-SlateGray {
+  border-top-color: #708090;
+}
+.border-top-SlateGrey {
+  border-top-color: #708090;
+}
+.border-top-Snow {
+  border-top-color: #fffafa;
+}
+.border-top-SpringGreen {
+  border-top-color: #00ff7f;
+}
+.border-top-SteelBlue {
+  border-top-color: #4682b4;
+}
+.border-top-Tan {
+  border-top-color: #d2b48c;
+}
+.border-top-Teal {
+  border-top-color: #008080;
+}
+.border-top-Thistle {
+  border-top-color: #d8bfd8;
+}
+.border-top-Tomato {
+  border-top-color: #ff6347;
+}
+.border-top-Turquoise {
+  border-top-color: #40e0d0;
+}
+.border-top-Violet {
+  border-top-color: #ee82ee;
+}
+.border-top-Wheat {
+  border-top-color: #f5deb3;
+}
+.border-top-White {
+  border-top-color: #fff;
+}
+.border-top-WhiteSmoke {
+  border-top-color: #f5f5f5;
+}
+.border-top-Yellow {
+  border-top-color: #ff0;
+}
+.border-top-YellowGreen {
+  border-top-color: #9acd32;
+}
+.border-bottom-AliceBlue {
+  border-bottom-color: #f0f8ff;
+}
+.border-bottom-AntiqueWhite {
+  border-bottom-color: #faebd7;
+}
+.border-bottom-Aqua {
+  border-bottom-color: #0ff;
+}
+.border-bottom-Aquamarine {
+  border-bottom-color: #7fffd4;
+}
+.border-bottom-Azure {
+  border-bottom-color: #f0ffff;
+}
+.border-bottom-Beige {
+  border-bottom-color: #f5f5dc;
+}
+.border-bottom-Bisque {
+  border-bottom-color: #ffe4c4;
+}
+.border-bottom-Black {
+  border-bottom-color: #000;
+}
+.border-bottom-BlanchedAlmond {
+  border-bottom-color: #ffebcd;
+}
+.border-bottom-Blue {
+  border-bottom-color: #00f;
+}
+.border-bottom-BlueViolet {
+  border-bottom-color: #8a2be2;
+}
+.border-bottom-Brown {
+  border-bottom-color: #a52a2a;
+}
+.border-bottom-BurlyWood {
+  border-bottom-color: #deb887;
+}
+.border-bottom-CadetBlue {
+  border-bottom-color: #5f9ea0;
+}
+.border-bottom-Chartreuse {
+  border-bottom-color: #7fff00;
+}
+.border-bottom-Chocolate {
+  border-bottom-color: #d2691e;
+}
+.border-bottom-Coral {
+  border-bottom-color: #ff7f50;
+}
+.border-bottom-CornflowerBlue {
+  border-bottom-color: #6495ed;
+}
+.border-bottom-Cornsilk {
+  border-bottom-color: #fff8dc;
+}
+.border-bottom-Crimson {
+  border-bottom-color: #dc143c;
+}
+.border-bottom-Cyan {
+  border-bottom-color: #0ff;
+}
+.border-bottom-DarkBlue {
+  border-bottom-color: #00008b;
+}
+.border-bottom-DarkCyan {
+  border-bottom-color: #008b8b;
+}
+.border-bottom-DarkGoldenRod {
+  border-bottom-color: #b8860b;
+}
+.border-bottom-DarkGray {
+  border-bottom-color: #a9a9a9;
+}
+.border-bottom-DarkGrey {
+  border-bottom-color: #a9a9a9;
+}
+.border-bottom-DarkGreen {
+  border-bottom-color: #006400;
+}
+.border-bottom-DarkKhaki {
+  border-bottom-color: #bdb76b;
+}
+.border-bottom-DarkMagenta {
+  border-bottom-color: #8b008b;
+}
+.border-bottom-DarkOliveGreen {
+  border-bottom-color: #556b2f;
+}
+.border-bottom-DarkOrange {
+  border-bottom-color: #ff8c00;
+}
+.border-bottom-DarkOrchid {
+  border-bottom-color: #9932cc;
+}
+.border-bottom-DarkRed {
+  border-bottom-color: #8b0000;
+}
+.border-bottom-DarkSalmon {
+  border-bottom-color: #e9967a;
+}
+.border-bottom-DarkSeaGreen {
+  border-bottom-color: #8fbc8f;
+}
+.border-bottom-DarkSlateBlue {
+  border-bottom-color: #483d8b;
+}
+.border-bottom-DarkSlateGray {
+  border-bottom-color: #2f4f4f;
+}
+.border-bottom-DarkSlateGrey {
+  border-bottom-color: #2f4f4f;
+}
+.border-bottom-DarkTurquoise {
+  border-bottom-color: #00ced1;
+}
+.border-bottom-DarkViolet {
+  border-bottom-color: #9400d3;
+}
+.border-bottom-DeepPink {
+  border-bottom-color: #ff1493;
+}
+.border-bottom-DeepSkyBlue {
+  border-bottom-color: #00bfff;
+}
+.border-bottom-DimGray {
+  border-bottom-color: #696969;
+}
+.border-bottom-DimGrey {
+  border-bottom-color: #696969;
+}
+.border-bottom-DodgerBlue {
+  border-bottom-color: #1e90ff;
+}
+.border-bottom-FireBrick {
+  border-bottom-color: #b22222;
+}
+.border-bottom-FloralWhite {
+  border-bottom-color: #fffaf0;
+}
+.border-bottom-ForestGreen {
+  border-bottom-color: #228b22;
+}
+.border-bottom-Fuchsia {
+  border-bottom-color: #f0f;
+}
+.border-bottom-Gainsboro {
+  border-bottom-color: #dcdcdc;
+}
+.border-bottom-GhostWhite {
+  border-bottom-color: #f8f8ff;
+}
+.border-bottom-Gold {
+  border-bottom-color: #ffd700;
+}
+.border-bottom-GoldenRod {
+  border-bottom-color: #daa520;
+}
+.border-bottom-Gray {
+  border-bottom-color: #808080;
+}
+.border-bottom-Grey {
+  border-bottom-color: #808080;
+}
+.border-bottom-Green {
+  border-bottom-color: #008000;
+}
+.border-bottom-GreenYellow {
+  border-bottom-color: #adff2f;
+}
+.border-bottom-HoneyDew {
+  border-bottom-color: #f0fff0;
+}
+.border-bottom-HotPink {
+  border-bottom-color: #ff69b4;
+}
+.border-bottom-IndianRed {
+  border-bottom-color: #cd5c5c;
+}
+.border-bottom-Indigo {
+  border-bottom-color: #4b0082;
+}
+.border-bottom-Ivory {
+  border-bottom-color: #fffff0;
+}
+.border-bottom-Khaki {
+  border-bottom-color: #f0e68c;
+}
+.border-bottom-Lavender {
+  border-bottom-color: #e6e6fa;
+}
+.border-bottom-LavenderBlush {
+  border-bottom-color: #fff0f5;
+}
+.border-bottom-LawnGreen {
+  border-bottom-color: #7cfc00;
+}
+.border-bottom-LemonChiffon {
+  border-bottom-color: #fffacd;
+}
+.border-bottom-LightBlue {
+  border-bottom-color: #add8e6;
+}
+.border-bottom-LightCoral {
+  border-bottom-color: #f08080;
+}
+.border-bottom-LightCyan {
+  border-bottom-color: #e0ffff;
+}
+.border-bottom-LightGoldenRodYellow {
+  border-bottom-color: #fafad2;
+}
+.border-bottom-LightGray {
+  border-bottom-color: #d3d3d3;
+}
+.border-bottom-LightGrey {
+  border-bottom-color: #d3d3d3;
+}
+.border-bottom-LightGreen {
+  border-bottom-color: #90ee90;
+}
+.border-bottom-LightPink {
+  border-bottom-color: #ffb6c1;
+}
+.border-bottom-LightSalmon {
+  border-bottom-color: #ffa07a;
+}
+.border-bottom-LightSeaGreen {
+  border-bottom-color: #20b2aa;
+}
+.border-bottom-LightSkyBlue {
+  border-bottom-color: #87cefa;
+}
+.border-bottom-LightSlateGray {
+  border-bottom-color: #789;
+}
+.border-bottom-LightSlateGrey {
+  border-bottom-color: #789;
+}
+.border-bottom-LightSteelBlue {
+  border-bottom-color: #b0c4de;
+}
+.border-bottom-LightYellow {
+  border-bottom-color: #ffffe0;
+}
+.border-bottom-Lime {
+  border-bottom-color: #0f0;
+}
+.border-bottom-LimeGreen {
+  border-bottom-color: #32cd32;
+}
+.border-bottom-Linen {
+  border-bottom-color: #faf0e6;
+}
+.border-bottom-Magenta {
+  border-bottom-color: #f0f;
+}
+.border-bottom-Maroon {
+  border-bottom-color: #800000;
+}
+.border-bottom-MediumAquaMarine {
+  border-bottom-color: #66cdaa;
+}
+.border-bottom-MediumBlue {
+  border-bottom-color: #0000cd;
+}
+.border-bottom-MediumOrchid {
+  border-bottom-color: #ba55d3;
+}
+.border-bottom-MediumPurple {
+  border-bottom-color: #9370db;
+}
+.border-bottom-MediumSeaGreen {
+  border-bottom-color: #3cb371;
+}
+.border-bottom-MediumSlateBlue {
+  border-bottom-color: #7b68ee;
+}
+.border-bottom-MediumSpringGreen {
+  border-bottom-color: #00fa9a;
+}
+.border-bottom-MediumTurquoise {
+  border-bottom-color: #48d1cc;
+}
+.border-bottom-MediumVioletRed {
+  border-bottom-color: #c71585;
+}
+.border-bottom-MidnightBlue {
+  border-bottom-color: #191970;
+}
+.border-bottom-MintCream {
+  border-bottom-color: #f5fffa;
+}
+.border-bottom-MistyRose {
+  border-bottom-color: #ffe4e1;
+}
+.border-bottom-Moccasin {
+  border-bottom-color: #ffe4b5;
+}
+.border-bottom-NavajoWhite {
+  border-bottom-color: #ffdead;
+}
+.border-bottom-Navy {
+  border-bottom-color: #000080;
+}
+.border-bottom-OldLace {
+  border-bottom-color: #fdf5e6;
+}
+.border-bottom-Olive {
+  border-bottom-color: #808000;
+}
+.border-bottom-OliveDrab {
+  border-bottom-color: #6b8e23;
+}
+.border-bottom-Orange {
+  border-bottom-color: #ffa500;
+}
+.border-bottom-OrangeRed {
+  border-bottom-color: #ff4500;
+}
+.border-bottom-Orchid {
+  border-bottom-color: #da70d6;
+}
+.border-bottom-PaleGoldenRod {
+  border-bottom-color: #eee8aa;
+}
+.border-bottom-PaleGreen {
+  border-bottom-color: #98fb98;
+}
+.border-bottom-PaleTurquoise {
+  border-bottom-color: #afeeee;
+}
+.border-bottom-PaleVioletRed {
+  border-bottom-color: #db7093;
+}
+.border-bottom-PapayaWhip {
+  border-bottom-color: #ffefd5;
+}
+.border-bottom-PeachPuff {
+  border-bottom-color: #ffdab9;
+}
+.border-bottom-Peru {
+  border-bottom-color: #cd853f;
+}
+.border-bottom-Pink {
+  border-bottom-color: #ffc0cb;
+}
+.border-bottom-Plum {
+  border-bottom-color: #dda0dd;
+}
+.border-bottom-PowderBlue {
+  border-bottom-color: #b0e0e6;
+}
+.border-bottom-Purple {
+  border-bottom-color: #800080;
+}
+.border-bottom-RebeccaPurple {
+  border-bottom-color: #639;
+}
+.border-bottom-Red {
+  border-bottom-color: #f00;
+}
+.border-bottom-RosyBrown {
+  border-bottom-color: #bc8f8f;
+}
+.border-bottom-RoyalBlue {
+  border-bottom-color: #4169e1;
+}
+.border-bottom-SaddleBrown {
+  border-bottom-color: #8b4513;
+}
+.border-bottom-Salmon {
+  border-bottom-color: #fa8072;
+}
+.border-bottom-SandyBrown {
+  border-bottom-color: #f4a460;
+}
+.border-bottom-SeaGreen {
+  border-bottom-color: #2e8b57;
+}
+.border-bottom-SeaShell {
+  border-bottom-color: #fff5ee;
+}
+.border-bottom-Sienna {
+  border-bottom-color: #a0522d;
+}
+.border-bottom-Silver {
+  border-bottom-color: #c0c0c0;
+}
+.border-bottom-SkyBlue {
+  border-bottom-color: #87ceeb;
+}
+.border-bottom-SlateBlue {
+  border-bottom-color: #6a5acd;
+}
+.border-bottom-SlateGray {
+  border-bottom-color: #708090;
+}
+.border-bottom-SlateGrey {
+  border-bottom-color: #708090;
+}
+.border-bottom-Snow {
+  border-bottom-color: #fffafa;
+}
+.border-bottom-SpringGreen {
+  border-bottom-color: #00ff7f;
+}
+.border-bottom-SteelBlue {
+  border-bottom-color: #4682b4;
+}
+.border-bottom-Tan {
+  border-bottom-color: #d2b48c;
+}
+.border-bottom-Teal {
+  border-bottom-color: #008080;
+}
+.border-bottom-Thistle {
+  border-bottom-color: #d8bfd8;
+}
+.border-bottom-Tomato {
+  border-bottom-color: #ff6347;
+}
+.border-bottom-Turquoise {
+  border-bottom-color: #40e0d0;
+}
+.border-bottom-Violet {
+  border-bottom-color: #ee82ee;
+}
+.border-bottom-Wheat {
+  border-bottom-color: #f5deb3;
+}
+.border-bottom-White {
+  border-bottom-color: #fff;
+}
+.border-bottom-WhiteSmoke {
+  border-bottom-color: #f5f5f5;
+}
+.border-bottom-Yellow {
+  border-bottom-color: #ff0;
+}
+.border-bottom-YellowGreen {
+  border-bottom-color: #9acd32;
+}
+.border-left-AliceBlue {
+  border-left-color: #f0f8ff;
+}
+.border-left-AntiqueWhite {
+  border-left-color: #faebd7;
+}
+.border-left-Aqua {
+  border-left-color: #0ff;
+}
+.border-left-Aquamarine {
+  border-left-color: #7fffd4;
+}
+.border-left-Azure {
+  border-left-color: #f0ffff;
+}
+.border-left-Beige {
+  border-left-color: #f5f5dc;
+}
+.border-left-Bisque {
+  border-left-color: #ffe4c4;
+}
+.border-left-Black {
+  border-left-color: #000;
+}
+.border-left-BlanchedAlmond {
+  border-left-color: #ffebcd;
+}
+.border-left-Blue {
+  border-left-color: #00f;
+}
+.border-left-BlueViolet {
+  border-left-color: #8a2be2;
+}
+.border-left-Brown {
+  border-left-color: #a52a2a;
+}
+.border-left-BurlyWood {
+  border-left-color: #deb887;
+}
+.border-left-CadetBlue {
+  border-left-color: #5f9ea0;
+}
+.border-left-Chartreuse {
+  border-left-color: #7fff00;
+}
+.border-left-Chocolate {
+  border-left-color: #d2691e;
+}
+.border-left-Coral {
+  border-left-color: #ff7f50;
+}
+.border-left-CornflowerBlue {
+  border-left-color: #6495ed;
+}
+.border-left-Cornsilk {
+  border-left-color: #fff8dc;
+}
+.border-left-Crimson {
+  border-left-color: #dc143c;
+}
+.border-left-Cyan {
+  border-left-color: #0ff;
+}
+.border-left-DarkBlue {
+  border-left-color: #00008b;
+}
+.border-left-DarkCyan {
+  border-left-color: #008b8b;
+}
+.border-left-DarkGoldenRod {
+  border-left-color: #b8860b;
+}
+.border-left-DarkGray {
+  border-left-color: #a9a9a9;
+}
+.border-left-DarkGrey {
+  border-left-color: #a9a9a9;
+}
+.border-left-DarkGreen {
+  border-left-color: #006400;
+}
+.border-left-DarkKhaki {
+  border-left-color: #bdb76b;
+}
+.border-left-DarkMagenta {
+  border-left-color: #8b008b;
+}
+.border-left-DarkOliveGreen {
+  border-left-color: #556b2f;
+}
+.border-left-DarkOrange {
+  border-left-color: #ff8c00;
+}
+.border-left-DarkOrchid {
+  border-left-color: #9932cc;
+}
+.border-left-DarkRed {
+  border-left-color: #8b0000;
+}
+.border-left-DarkSalmon {
+  border-left-color: #e9967a;
+}
+.border-left-DarkSeaGreen {
+  border-left-color: #8fbc8f;
+}
+.border-left-DarkSlateBlue {
+  border-left-color: #483d8b;
+}
+.border-left-DarkSlateGray {
+  border-left-color: #2f4f4f;
+}
+.border-left-DarkSlateGrey {
+  border-left-color: #2f4f4f;
+}
+.border-left-DarkTurquoise {
+  border-left-color: #00ced1;
+}
+.border-left-DarkViolet {
+  border-left-color: #9400d3;
+}
+.border-left-DeepPink {
+  border-left-color: #ff1493;
+}
+.border-left-DeepSkyBlue {
+  border-left-color: #00bfff;
+}
+.border-left-DimGray {
+  border-left-color: #696969;
+}
+.border-left-DimGrey {
+  border-left-color: #696969;
+}
+.border-left-DodgerBlue {
+  border-left-color: #1e90ff;
+}
+.border-left-FireBrick {
+  border-left-color: #b22222;
+}
+.border-left-FloralWhite {
+  border-left-color: #fffaf0;
+}
+.border-left-ForestGreen {
+  border-left-color: #228b22;
+}
+.border-left-Fuchsia {
+  border-left-color: #f0f;
+}
+.border-left-Gainsboro {
+  border-left-color: #dcdcdc;
+}
+.border-left-GhostWhite {
+  border-left-color: #f8f8ff;
+}
+.border-left-Gold {
+  border-left-color: #ffd700;
+}
+.border-left-GoldenRod {
+  border-left-color: #daa520;
+}
+.border-left-Gray {
+  border-left-color: #808080;
+}
+.border-left-Grey {
+  border-left-color: #808080;
+}
+.border-left-Green {
+  border-left-color: #008000;
+}
+.border-left-GreenYellow {
+  border-left-color: #adff2f;
+}
+.border-left-HoneyDew {
+  border-left-color: #f0fff0;
+}
+.border-left-HotPink {
+  border-left-color: #ff69b4;
+}
+.border-left-IndianRed {
+  border-left-color: #cd5c5c;
+}
+.border-left-Indigo {
+  border-left-color: #4b0082;
+}
+.border-left-Ivory {
+  border-left-color: #fffff0;
+}
+.border-left-Khaki {
+  border-left-color: #f0e68c;
+}
+.border-left-Lavender {
+  border-left-color: #e6e6fa;
+}
+.border-left-LavenderBlush {
+  border-left-color: #fff0f5;
+}
+.border-left-LawnGreen {
+  border-left-color: #7cfc00;
+}
+.border-left-LemonChiffon {
+  border-left-color: #fffacd;
+}
+.border-left-LightBlue {
+  border-left-color: #add8e6;
+}
+.border-left-LightCoral {
+  border-left-color: #f08080;
+}
+.border-left-LightCyan {
+  border-left-color: #e0ffff;
+}
+.border-left-LightGoldenRodYellow {
+  border-left-color: #fafad2;
+}
+.border-left-LightGray {
+  border-left-color: #d3d3d3;
+}
+.border-left-LightGrey {
+  border-left-color: #d3d3d3;
+}
+.border-left-LightGreen {
+  border-left-color: #90ee90;
+}
+.border-left-LightPink {
+  border-left-color: #ffb6c1;
+}
+.border-left-LightSalmon {
+  border-left-color: #ffa07a;
+}
+.border-left-LightSeaGreen {
+  border-left-color: #20b2aa;
+}
+.border-left-LightSkyBlue {
+  border-left-color: #87cefa;
+}
+.border-left-LightSlateGray {
+  border-left-color: #789;
+}
+.border-left-LightSlateGrey {
+  border-left-color: #789;
+}
+.border-left-LightSteelBlue {
+  border-left-color: #b0c4de;
+}
+.border-left-LightYellow {
+  border-left-color: #ffffe0;
+}
+.border-left-Lime {
+  border-left-color: #0f0;
+}
+.border-left-LimeGreen {
+  border-left-color: #32cd32;
+}
+.border-left-Linen {
+  border-left-color: #faf0e6;
+}
+.border-left-Magenta {
+  border-left-color: #f0f;
+}
+.border-left-Maroon {
+  border-left-color: #800000;
+}
+.border-left-MediumAquaMarine {
+  border-left-color: #66cdaa;
+}
+.border-left-MediumBlue {
+  border-left-color: #0000cd;
+}
+.border-left-MediumOrchid {
+  border-left-color: #ba55d3;
+}
+.border-left-MediumPurple {
+  border-left-color: #9370db;
+}
+.border-left-MediumSeaGreen {
+  border-left-color: #3cb371;
+}
+.border-left-MediumSlateBlue {
+  border-left-color: #7b68ee;
+}
+.border-left-MediumSpringGreen {
+  border-left-color: #00fa9a;
+}
+.border-left-MediumTurquoise {
+  border-left-color: #48d1cc;
+}
+.border-left-MediumVioletRed {
+  border-left-color: #c71585;
+}
+.border-left-MidnightBlue {
+  border-left-color: #191970;
+}
+.border-left-MintCream {
+  border-left-color: #f5fffa;
+}
+.border-left-MistyRose {
+  border-left-color: #ffe4e1;
+}
+.border-left-Moccasin {
+  border-left-color: #ffe4b5;
+}
+.border-left-NavajoWhite {
+  border-left-color: #ffdead;
+}
+.border-left-Navy {
+  border-left-color: #000080;
+}
+.border-left-OldLace {
+  border-left-color: #fdf5e6;
+}
+.border-left-Olive {
+  border-left-color: #808000;
+}
+.border-left-OliveDrab {
+  border-left-color: #6b8e23;
+}
+.border-left-Orange {
+  border-left-color: #ffa500;
+}
+.border-left-OrangeRed {
+  border-left-color: #ff4500;
+}
+.border-left-Orchid {
+  border-left-color: #da70d6;
+}
+.border-left-PaleGoldenRod {
+  border-left-color: #eee8aa;
+}
+.border-left-PaleGreen {
+  border-left-color: #98fb98;
+}
+.border-left-PaleTurquoise {
+  border-left-color: #afeeee;
+}
+.border-left-PaleVioletRed {
+  border-left-color: #db7093;
+}
+.border-left-PapayaWhip {
+  border-left-color: #ffefd5;
+}
+.border-left-PeachPuff {
+  border-left-color: #ffdab9;
+}
+.border-left-Peru {
+  border-left-color: #cd853f;
+}
+.border-left-Pink {
+  border-left-color: #ffc0cb;
+}
+.border-left-Plum {
+  border-left-color: #dda0dd;
+}
+.border-left-PowderBlue {
+  border-left-color: #b0e0e6;
+}
+.border-left-Purple {
+  border-left-color: #800080;
+}
+.border-left-RebeccaPurple {
+  border-left-color: #639;
+}
+.border-left-Red {
+  border-left-color: #f00;
+}
+.border-left-RosyBrown {
+  border-left-color: #bc8f8f;
+}
+.border-left-RoyalBlue {
+  border-left-color: #4169e1;
+}
+.border-left-SaddleBrown {
+  border-left-color: #8b4513;
+}
+.border-left-Salmon {
+  border-left-color: #fa8072;
+}
+.border-left-SandyBrown {
+  border-left-color: #f4a460;
+}
+.border-left-SeaGreen {
+  border-left-color: #2e8b57;
+}
+.border-left-SeaShell {
+  border-left-color: #fff5ee;
+}
+.border-left-Sienna {
+  border-left-color: #a0522d;
+}
+.border-left-Silver {
+  border-left-color: #c0c0c0;
+}
+.border-left-SkyBlue {
+  border-left-color: #87ceeb;
+}
+.border-left-SlateBlue {
+  border-left-color: #6a5acd;
+}
+.border-left-SlateGray {
+  border-left-color: #708090;
+}
+.border-left-SlateGrey {
+  border-left-color: #708090;
+}
+.border-left-Snow {
+  border-left-color: #fffafa;
+}
+.border-left-SpringGreen {
+  border-left-color: #00ff7f;
+}
+.border-left-SteelBlue {
+  border-left-color: #4682b4;
+}
+.border-left-Tan {
+  border-left-color: #d2b48c;
+}
+.border-left-Teal {
+  border-left-color: #008080;
+}
+.border-left-Thistle {
+  border-left-color: #d8bfd8;
+}
+.border-left-Tomato {
+  border-left-color: #ff6347;
+}
+.border-left-Turquoise {
+  border-left-color: #40e0d0;
+}
+.border-left-Violet {
+  border-left-color: #ee82ee;
+}
+.border-left-Wheat {
+  border-left-color: #f5deb3;
+}
+.border-left-White {
+  border-left-color: #fff;
+}
+.border-left-WhiteSmoke {
+  border-left-color: #f5f5f5;
+}
+.border-left-Yellow {
+  border-left-color: #ff0;
+}
+.border-left-YellowGreen {
+  border-left-color: #9acd32;
+}
+.border-right-AliceBlue {
+  border-right-color: #f0f8ff;
+}
+.border-right-AntiqueWhite {
+  border-right-color: #faebd7;
+}
+.border-right-Aqua {
+  border-right-color: #0ff;
+}
+.border-right-Aquamarine {
+  border-right-color: #7fffd4;
+}
+.border-right-Azure {
+  border-right-color: #f0ffff;
+}
+.border-right-Beige {
+  border-right-color: #f5f5dc;
+}
+.border-right-Bisque {
+  border-right-color: #ffe4c4;
+}
+.border-right-Black {
+  border-right-color: #000;
+}
+.border-right-BlanchedAlmond {
+  border-right-color: #ffebcd;
+}
+.border-right-Blue {
+  border-right-color: #00f;
+}
+.border-right-BlueViolet {
+  border-right-color: #8a2be2;
+}
+.border-right-Brown {
+  border-right-color: #a52a2a;
+}
+.border-right-BurlyWood {
+  border-right-color: #deb887;
+}
+.border-right-CadetBlue {
+  border-right-color: #5f9ea0;
+}
+.border-right-Chartreuse {
+  border-right-color: #7fff00;
+}
+.border-right-Chocolate {
+  border-right-color: #d2691e;
+}
+.border-right-Coral {
+  border-right-color: #ff7f50;
+}
+.border-right-CornflowerBlue {
+  border-right-color: #6495ed;
+}
+.border-right-Cornsilk {
+  border-right-color: #fff8dc;
+}
+.border-right-Crimson {
+  border-right-color: #dc143c;
+}
+.border-right-Cyan {
+  border-right-color: #0ff;
+}
+.border-right-DarkBlue {
+  border-right-color: #00008b;
+}
+.border-right-DarkCyan {
+  border-right-color: #008b8b;
+}
+.border-right-DarkGoldenRod {
+  border-right-color: #b8860b;
+}
+.border-right-DarkGray {
+  border-right-color: #a9a9a9;
+}
+.border-right-DarkGrey {
+  border-right-color: #a9a9a9;
+}
+.border-right-DarkGreen {
+  border-right-color: #006400;
+}
+.border-right-DarkKhaki {
+  border-right-color: #bdb76b;
+}
+.border-right-DarkMagenta {
+  border-right-color: #8b008b;
+}
+.border-right-DarkOliveGreen {
+  border-right-color: #556b2f;
+}
+.border-right-DarkOrange {
+  border-right-color: #ff8c00;
+}
+.border-right-DarkOrchid {
+  border-right-color: #9932cc;
+}
+.border-right-DarkRed {
+  border-right-color: #8b0000;
+}
+.border-right-DarkSalmon {
+  border-right-color: #e9967a;
+}
+.border-right-DarkSeaGreen {
+  border-right-color: #8fbc8f;
+}
+.border-right-DarkSlateBlue {
+  border-right-color: #483d8b;
+}
+.border-right-DarkSlateGray {
+  border-right-color: #2f4f4f;
+}
+.border-right-DarkSlateGrey {
+  border-right-color: #2f4f4f;
+}
+.border-right-DarkTurquoise {
+  border-right-color: #00ced1;
+}
+.border-right-DarkViolet {
+  border-right-color: #9400d3;
+}
+.border-right-DeepPink {
+  border-right-color: #ff1493;
+}
+.border-right-DeepSkyBlue {
+  border-right-color: #00bfff;
+}
+.border-right-DimGray {
+  border-right-color: #696969;
+}
+.border-right-DimGrey {
+  border-right-color: #696969;
+}
+.border-right-DodgerBlue {
+  border-right-color: #1e90ff;
+}
+.border-right-FireBrick {
+  border-right-color: #b22222;
+}
+.border-right-FloralWhite {
+  border-right-color: #fffaf0;
+}
+.border-right-ForestGreen {
+  border-right-color: #228b22;
+}
+.border-right-Fuchsia {
+  border-right-color: #f0f;
+}
+.border-right-Gainsboro {
+  border-right-color: #dcdcdc;
+}
+.border-right-GhostWhite {
+  border-right-color: #f8f8ff;
+}
+.border-right-Gold {
+  border-right-color: #ffd700;
+}
+.border-right-GoldenRod {
+  border-right-color: #daa520;
+}
+.border-right-Gray {
+  border-right-color: #808080;
+}
+.border-right-Grey {
+  border-right-color: #808080;
+}
+.border-right-Green {
+  border-right-color: #008000;
+}
+.border-right-GreenYellow {
+  border-right-color: #adff2f;
+}
+.border-right-HoneyDew {
+  border-right-color: #f0fff0;
+}
+.border-right-HotPink {
+  border-right-color: #ff69b4;
+}
+.border-right-IndianRed {
+  border-right-color: #cd5c5c;
+}
+.border-right-Indigo {
+  border-right-color: #4b0082;
+}
+.border-right-Ivory {
+  border-right-color: #fffff0;
+}
+.border-right-Khaki {
+  border-right-color: #f0e68c;
+}
+.border-right-Lavender {
+  border-right-color: #e6e6fa;
+}
+.border-right-LavenderBlush {
+  border-right-color: #fff0f5;
+}
+.border-right-LawnGreen {
+  border-right-color: #7cfc00;
+}
+.border-right-LemonChiffon {
+  border-right-color: #fffacd;
+}
+.border-right-LightBlue {
+  border-right-color: #add8e6;
+}
+.border-right-LightCoral {
+  border-right-color: #f08080;
+}
+.border-right-LightCyan {
+  border-right-color: #e0ffff;
+}
+.border-right-LightGoldenRodYellow {
+  border-right-color: #fafad2;
+}
+.border-right-LightGray {
+  border-right-color: #d3d3d3;
+}
+.border-right-LightGrey {
+  border-right-color: #d3d3d3;
+}
+.border-right-LightGreen {
+  border-right-color: #90ee90;
+}
+.border-right-LightPink {
+  border-right-color: #ffb6c1;
+}
+.border-right-LightSalmon {
+  border-right-color: #ffa07a;
+}
+.border-right-LightSeaGreen {
+  border-right-color: #20b2aa;
+}
+.border-right-LightSkyBlue {
+  border-right-color: #87cefa;
+}
+.border-right-LightSlateGray {
+  border-right-color: #789;
+}
+.border-right-LightSlateGrey {
+  border-right-color: #789;
+}
+.border-right-LightSteelBlue {
+  border-right-color: #b0c4de;
+}
+.border-right-LightYellow {
+  border-right-color: #ffffe0;
+}
+.border-right-Lime {
+  border-right-color: #0f0;
+}
+.border-right-LimeGreen {
+  border-right-color: #32cd32;
+}
+.border-right-Linen {
+  border-right-color: #faf0e6;
+}
+.border-right-Magenta {
+  border-right-color: #f0f;
+}
+.border-right-Maroon {
+  border-right-color: #800000;
+}
+.border-right-MediumAquaMarine {
+  border-right-color: #66cdaa;
+}
+.border-right-MediumBlue {
+  border-right-color: #0000cd;
+}
+.border-right-MediumOrchid {
+  border-right-color: #ba55d3;
+}
+.border-right-MediumPurple {
+  border-right-color: #9370db;
+}
+.border-right-MediumSeaGreen {
+  border-right-color: #3cb371;
+}
+.border-right-MediumSlateBlue {
+  border-right-color: #7b68ee;
+}
+.border-right-MediumSpringGreen {
+  border-right-color: #00fa9a;
+}
+.border-right-MediumTurquoise {
+  border-right-color: #48d1cc;
+}
+.border-right-MediumVioletRed {
+  border-right-color: #c71585;
+}
+.border-right-MidnightBlue {
+  border-right-color: #191970;
+}
+.border-right-MintCream {
+  border-right-color: #f5fffa;
+}
+.border-right-MistyRose {
+  border-right-color: #ffe4e1;
+}
+.border-right-Moccasin {
+  border-right-color: #ffe4b5;
+}
+.border-right-NavajoWhite {
+  border-right-color: #ffdead;
+}
+.border-right-Navy {
+  border-right-color: #000080;
+}
+.border-right-OldLace {
+  border-right-color: #fdf5e6;
+}
+.border-right-Olive {
+  border-right-color: #808000;
+}
+.border-right-OliveDrab {
+  border-right-color: #6b8e23;
+}
+.border-right-Orange {
+  border-right-color: #ffa500;
+}
+.border-right-OrangeRed {
+  border-right-color: #ff4500;
+}
+.border-right-Orchid {
+  border-right-color: #da70d6;
+}
+.border-right-PaleGoldenRod {
+  border-right-color: #eee8aa;
+}
+.border-right-PaleGreen {
+  border-right-color: #98fb98;
+}
+.border-right-PaleTurquoise {
+  border-right-color: #afeeee;
+}
+.border-right-PaleVioletRed {
+  border-right-color: #db7093;
+}
+.border-right-PapayaWhip {
+  border-right-color: #ffefd5;
+}
+.border-right-PeachPuff {
+  border-right-color: #ffdab9;
+}
+.border-right-Peru {
+  border-right-color: #cd853f;
+}
+.border-right-Pink {
+  border-right-color: #ffc0cb;
+}
+.border-right-Plum {
+  border-right-color: #dda0dd;
+}
+.border-right-PowderBlue {
+  border-right-color: #b0e0e6;
+}
+.border-right-Purple {
+  border-right-color: #800080;
+}
+.border-right-RebeccaPurple {
+  border-right-color: #639;
+}
+.border-right-Red {
+  border-right-color: #f00;
+}
+.border-right-RosyBrown {
+  border-right-color: #bc8f8f;
+}
+.border-right-RoyalBlue {
+  border-right-color: #4169e1;
+}
+.border-right-SaddleBrown {
+  border-right-color: #8b4513;
+}
+.border-right-Salmon {
+  border-right-color: #fa8072;
+}
+.border-right-SandyBrown {
+  border-right-color: #f4a460;
+}
+.border-right-SeaGreen {
+  border-right-color: #2e8b57;
+}
+.border-right-SeaShell {
+  border-right-color: #fff5ee;
+}
+.border-right-Sienna {
+  border-right-color: #a0522d;
+}
+.border-right-Silver {
+  border-right-color: #c0c0c0;
+}
+.border-right-SkyBlue {
+  border-right-color: #87ceeb;
+}
+.border-right-SlateBlue {
+  border-right-color: #6a5acd;
+}
+.border-right-SlateGray {
+  border-right-color: #708090;
+}
+.border-right-SlateGrey {
+  border-right-color: #708090;
+}
+.border-right-Snow {
+  border-right-color: #fffafa;
+}
+.border-right-SpringGreen {
+  border-right-color: #00ff7f;
+}
+.border-right-SteelBlue {
+  border-right-color: #4682b4;
+}
+.border-right-Tan {
+  border-right-color: #d2b48c;
+}
+.border-right-Teal {
+  border-right-color: #008080;
+}
+.border-right-Thistle {
+  border-right-color: #d8bfd8;
+}
+.border-right-Tomato {
+  border-right-color: #ff6347;
+}
+.border-right-Turquoise {
+  border-right-color: #40e0d0;
+}
+.border-right-Violet {
+  border-right-color: #ee82ee;
+}
+.border-right-Wheat {
+  border-right-color: #f5deb3;
+}
+.border-right-White {
+  border-right-color: #fff;
+}
+.border-right-WhiteSmoke {
+  border-right-color: #f5f5f5;
+}
+.border-right-Yellow {
+  border-right-color: #ff0;
+}
+.border-right-YellowGreen {
+  border-right-color: #9acd32;
+}
+.border-thickness-1 {
+  border-width: 1px;
+}
+.border-thickness-2 {
+  border-width: 2px;
+}
+.border-thickness-3 {
+  border-width: 3px;
+}
+.border-thickness-4 {
+  border-width: 4px;
+}
+.border-thickness-5 {
+  border-width: 5px;
+}
+.border-thickness-6 {
+  border-width: 6px;
+}
+.border-thickness-7 {
+  border-width: 7px;
+}
+.border-thickness-8 {
+  border-width: 8px;
+}
+.border-thickness-9 {
+  border-width: 9px;
+}
+.border-thickness-10 {
+  border-width: 10px;
+}
+.border-thickness-11 {
+  border-width: 11px;
+}
+.border-thickness-12 {
+  border-width: 12px;
+}
+.border-thickness-13 {
+  border-width: 13px;
+}
+.border-thickness-14 {
+  border-width: 14px;
+}
+.border-thickness-15 {
+  border-width: 15px;
+}
+.border-thickness-16 {
+  border-width: 16px;
+}
+.border-thickness-17 {
+  border-width: 17px;
+}
+.border-thickness-18 {
+  border-width: 18px;
+}
+.border-thickness-19 {
+  border-width: 19px;
+}
+.border-top-thickness-1 {
+  border-top-width: 1px;
+}
+.border-top-thickness-2 {
+  border-top-width: 2px;
+}
+.border-top-thickness-3 {
+  border-top-width: 3px;
+}
+.border-top-thickness-4 {
+  border-top-width: 4px;
+}
+.border-top-thickness-5 {
+  border-top-width: 5px;
+}
+.border-top-thickness-6 {
+  border-top-width: 6px;
+}
+.border-top-thickness-7 {
+  border-top-width: 7px;
+}
+.border-top-thickness-8 {
+  border-top-width: 8px;
+}
+.border-top-thickness-9 {
+  border-top-width: 9px;
+}
+.border-top-thickness-10 {
+  border-top-width: 10px;
+}
+.border-top-thickness-11 {
+  border-top-width: 11px;
+}
+.border-top-thickness-12 {
+  border-top-width: 12px;
+}
+.border-top-thickness-13 {
+  border-top-width: 13px;
+}
+.border-top-thickness-14 {
+  border-top-width: 14px;
+}
+.border-top-thickness-15 {
+  border-top-width: 15px;
+}
+.border-top-thickness-16 {
+  border-top-width: 16px;
+}
+.border-top-thickness-17 {
+  border-top-width: 17px;
+}
+.border-top-thickness-18 {
+  border-top-width: 18px;
+}
+.border-top-thickness-19 {
+  border-top-width: 19px;
+}
+.border-bottom-thickness-1 {
+  border-bottom-width: 1px;
+}
+.border-bottom-thickness-2 {
+  border-bottom-width: 2px;
+}
+.border-bottom-thickness-3 {
+  border-bottom-width: 3px;
+}
+.border-bottom-thickness-4 {
+  border-bottom-width: 4px;
+}
+.border-bottom-thickness-5 {
+  border-bottom-width: 5px;
+}
+.border-bottom-thickness-6 {
+  border-bottom-width: 6px;
+}
+.border-bottom-thickness-7 {
+  border-bottom-width: 7px;
+}
+.border-bottom-thickness-8 {
+  border-bottom-width: 8px;
+}
+.border-bottom-thickness-9 {
+  border-bottom-width: 9px;
+}
+.border-bottom-thickness-10 {
+  border-bottom-width: 10px;
+}
+.border-bottom-thickness-11 {
+  border-bottom-width: 11px;
+}
+.border-bottom-thickness-12 {
+  border-bottom-width: 12px;
+}
+.border-bottom-thickness-13 {
+  border-bottom-width: 13px;
+}
+.border-bottom-thickness-14 {
+  border-bottom-width: 14px;
+}
+.border-bottom-thickness-15 {
+  border-bottom-width: 15px;
+}
+.border-bottom-thickness-16 {
+  border-bottom-width: 16px;
+}
+.border-bottom-thickness-17 {
+  border-bottom-width: 17px;
+}
+.border-bottom-thickness-18 {
+  border-bottom-width: 18px;
+}
+.border-bottom-thickness-19 {
+  border-bottom-width: 19px;
+}
+.border-left-thickness-1 {
+  border-left-width: 1px;
+}
+.border-left-thickness-2 {
+  border-left-width: 2px;
+}
+.border-left-thickness-3 {
+  border-left-width: 3px;
+}
+.border-left-thickness-4 {
+  border-left-width: 4px;
+}
+.border-left-thickness-5 {
+  border-left-width: 5px;
+}
+.border-left-thickness-6 {
+  border-left-width: 6px;
+}
+.border-left-thickness-7 {
+  border-left-width: 7px;
+}
+.border-left-thickness-8 {
+  border-left-width: 8px;
+}
+.border-left-thickness-9 {
+  border-left-width: 9px;
+}
+.border-left-thickness-10 {
+  border-left-width: 10px;
+}
+.border-left-thickness-11 {
+  border-left-width: 11px;
+}
+.border-left-thickness-12 {
+  border-left-width: 12px;
+}
+.border-left-thickness-13 {
+  border-left-width: 13px;
+}
+.border-left-thickness-14 {
+  border-left-width: 14px;
+}
+.border-left-thickness-15 {
+  border-left-width: 15px;
+}
+.border-left-thickness-16 {
+  border-left-width: 16px;
+}
+.border-left-thickness-17 {
+  border-left-width: 17px;
+}
+.border-left-thickness-18 {
+  border-left-width: 18px;
+}
+.border-left-thickness-19 {
+  border-left-width: 19px;
+}
+.border-right-thickness-1 {
+  border-right-width: 1px;
+}
+.border-right-thickness-2 {
+  border-right-width: 2px;
+}
+.border-right-thickness-3 {
+  border-right-width: 3px;
+}
+.border-right-thickness-4 {
+  border-right-width: 4px;
+}
+.border-right-thickness-5 {
+  border-right-width: 5px;
+}
+.border-right-thickness-6 {
+  border-right-width: 6px;
+}
+.border-right-thickness-7 {
+  border-right-width: 7px;
+}
+.border-right-thickness-8 {
+  border-right-width: 8px;
+}
+.border-right-thickness-9 {
+  border-right-width: 9px;
+}
+.border-right-thickness-10 {
+  border-right-width: 10px;
+}
+.border-right-thickness-11 {
+  border-right-width: 11px;
+}
+.border-right-thickness-12 {
+  border-right-width: 12px;
+}
+.border-right-thickness-13 {
+  border-right-width: 13px;
+}
+.border-right-thickness-14 {
+  border-right-width: 14px;
+}
+.border-right-thickness-15 {
+  border-right-width: 15px;
+}
+.border-right-thickness-16 {
+  border-right-width: 16px;
+}
+.border-right-thickness-17 {
+  border-right-width: 17px;
+}
+.border-right-thickness-18 {
+  border-right-width: 18px;
+}
+.border-right-thickness-19 {
+  border-right-width: 19px;
+}
+.border-style-none {
+  border-style: none;
+}
+.border-style-hidden {
+  border-style: hidden;
+}
+.border-style-dotted {
+  border-style: dotted;
+}
+.border-style-dashed {
+  border-style: dashed;
+}
+.border-style-solid {
+  border-style: solid;
+}
+.border-style-double {
+  border-style: double;
+}
+.border-style-groove {
+  border-style: groove;
+}
+.border-style-ridge {
+  border-style: ridge;
+}
+.border-style-inset {
+  border-style: inset;
+}
+.border-style-outset {
+  border-style: outset;
+}
+.border-style-initial {
+  border-style: initial;
+}
+.border-style-inherit {
+  border-style: inherit;
+}
+.border-bottom-style-none {
+  border-bottom-style: none;
+}
+.border-bottom-style-hidden {
+  border-bottom-style: hidden;
+}
+.border-bottom-style-dotted {
+  border-bottom-style: dotted;
+}
+.border-bottom-style-dashed {
+  border-bottom-style: dashed;
+}
+.border-bottom-style-solid {
+  border-bottom-style: solid;
+}
+.border-bottom-style-double {
+  border-bottom-style: double;
+}
+.border-bottom-style-groove {
+  border-bottom-style: groove;
+}
+.border-bottom-style-ridge {
+  border-bottom-style: ridge;
+}
+.border-bottom-style-inset {
+  border-bottom-style: inset;
+}
+.border-bottom-style-outset {
+  border-bottom-style: outset;
+}
+.border-bottom-style-initial {
+  border-bottom-style: initial;
+}
+.border-bottom-style-inherit {
+  border-bottom-style: inherit;
+}
+.border-top-style-none {
+  border-top-style: none;
+}
+.border-top-style-hidden {
+  border-top-style: hidden;
+}
+.border-top-style-dotted {
+  border-top-style: dotted;
+}
+.border-top-style-dashed {
+  border-top-style: dashed;
+}
+.border-top-style-solid {
+  border-top-style: solid;
+}
+.border-top-style-double {
+  border-top-style: double;
+}
+.border-top-style-groove {
+  border-top-style: groove;
+}
+.border-top-style-ridge {
+  border-top-style: ridge;
+}
+.border-top-style-inset {
+  border-top-style: inset;
+}
+.border-top-style-outset {
+  border-top-style: outset;
+}
+.border-top-style-initial {
+  border-top-style: initial;
+}
+.border-top-style-inherit {
+  border-top-style: inherit;
+}
+.border-left-style-none {
+  border-left-style: none;
+}
+.border-left-style-hidden {
+  border-left-style: hidden;
+}
+.border-left-style-dotted {
+  border-left-style: dotted;
+}
+.border-left-style-dashed {
+  border-left-style: dashed;
+}
+.border-left-style-solid {
+  border-left-style: solid;
+}
+.border-left-style-double {
+  border-left-style: double;
+}
+.border-left-style-groove {
+  border-left-style: groove;
+}
+.border-left-style-ridge {
+  border-left-style: ridge;
+}
+.border-left-style-inset {
+  border-left-style: inset;
+}
+.border-left-style-outset {
+  border-left-style: outset;
+}
+.border-left-style-initial {
+  border-left-style: initial;
+}
+.border-left-style-inherit {
+  border-left-style: inherit;
+}
+.border-right-style-none {
+  border-right-style: none;
+}
+.border-right-style-hidden {
+  border-right-style: hidden;
+}
+.border-right-style-dotted {
+  border-right-style: dotted;
+}
+.border-right-style-dashed {
+  border-right-style: dashed;
+}
+.border-right-style-solid {
+  border-right-style: solid;
+}
+.border-right-style-double {
+  border-right-style: double;
+}
+.border-right-style-groove {
+  border-right-style: groove;
+}
+.border-right-style-ridge {
+  border-right-style: ridge;
+}
+.border-right-style-inset {
+  border-right-style: inset;
+}
+.border-right-style-outset {
+  border-right-style: outset;
+}
+.border-right-style-initial {
+  border-right-style: initial;
+}
+.border-right-style-inherit {
+  border-right-style: inherit;
 }

@@ -1,5 +1,5 @@
-var style1 = [['h1', 'complement-background-IndianRed']];
-var style2 = [['h1', 'complement-text-IndianRed']];
+var style1 = [['h1', 'border-Red'], ['h1', 'border-thickness-10'], ['h1', 'border-left-style-solid'], ['h1', 'border-top-style-dotted']];
+var style2 = [['h1', 'complement-serif-font-Old-Standard-TT']];
 var styles = [style1, style2];
 var currentStyleIndex = -1;
 
