@@ -2361,6 +2361,9 @@ a:hover {
 .background-image-zen {
   background-image: url("http://gettingtozen.com/images/zenPlant2013Final1.png");
 }
+.background-image-dolphin {
+  background-image: url("http://feelgrafix.com/data_images/out/20/930602-dolphins.jpg");
+}
 .background-repeat-repeat {
   background-repeat: repeat;
 }
@@ -2916,7 +2919,6 @@ a.after:hover:after {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
 }
 .navbarfixed ul li {
   float: right;
@@ -3038,6 +3040,33 @@ a.after:hover:after {
 }
 .background-size-percent-90 {
   background-size: 90%;
+}
+.height-100 {
+  height: 100px;
+}
+.height-200 {
+  height: 200px;
+}
+.height-300 {
+  height: 300px;
+}
+.height-400 {
+  height: 400px;
+}
+.height-500 {
+  height: 500px;
+}
+.height-600 {
+  height: 600px;
+}
+.height-700 {
+  height: 700px;
+}
+.height-800 {
+  height: 800px;
+}
+.height-900 {
+  height: 900px;
 }
 .alignCenter {
   text-align: center;
