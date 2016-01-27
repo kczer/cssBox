@@ -1410,6 +1410,9 @@ a:hover {
   color: #9acd32;
   background-color: #6532cd;
 }
+.background-fixed {
+  background-attachment: fixed;
+}
 .background-AliceBlue {
   background-color: #f0f8ff;
 }
@@ -2446,6 +2449,78 @@ a:hover {
   background-color: #9acd32;
   color: #6532cd;
 }
+.background-image-dogs {
+  background-image: url("http://www.funchap.com/wp-content/uploads/2014/05/little-dogs.jpg");
+}
+.background-image-cats {
+  background-image: url("http://www.smashwallpapers.com/wp-content/uploads/many-cute-cats.jpg");
+}
+.background-image-frogs {
+  background-image: url("http://impactvs.com/wp-content/uploads/2015/09/frogs.jpg");
+}
+.background-image-billmurray {
+  background-image: url("http://www.fillmurray.com/800/800");
+}
+.background-image-nickcage {
+  background-image: url("https://www.placecage.com/900/900");
+}
+.background-image-lilb {
+  background-image: url("http://cdn4.pitchfork.com/news/49113/c8672dd0.png");
+}
+.background-image-based {
+  background-image: url("http://www.beat.com.au/sites/default/files/styles/article_top_large/public/images/article/header/2013/april/lilb.jpg?itok=AYw2n3yq");
+}
+.background-repeat-repeat {
+  background-repeat: repeat;
+}
+.background-repeat-repeat-x {
+  background-repeat: repeat-x;
+}
+.background-repeat-repeat-y {
+  background-repeat: repeat-y;
+}
+.background-repeat-no-repeat {
+  background-repeat: no-repeat;
+}
+.background-repeat-initial {
+  background-repeat: initial;
+}
+.background-repeat-inherit {
+  background-repeat: inherit;
+}
+.background-position-left-top {
+  background-position: left top;
+}
+.background-position-left-center {
+  background-position: left center;
+}
+.background-position-left-bottom {
+  background-position: left bottom;
+}
+.background-position-right-top {
+  background-position: right top;
+}
+.background-position-right-center {
+  background-position: right center;
+}
+.background-position-right-bottom {
+  background-position: right bottom;
+}
+.background-position-center-top {
+  background-position: center top;
+}
+.background-position-center-center {
+  background-position: center center;
+}
+.background-position-center-bottom {
+  background-position: center bottom;
+}
+.background-position-initial {
+  background-position: initial;
+}
+.background-position-inherit {
+  background-position: inherit;
+}
 a.largeLink:after {
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -2924,6 +2999,78 @@ a.after:hover:after {
 }
 .invisible {
   visibility: hidden;
+}
+.font-size-xx-small {
+  font-size: xx-small;
+}
+.font-size-x-small {
+  font-size: x-small;
+}
+.font-size-small {
+  font-size: small;
+}
+.font-size-medium {
+  font-size: medium;
+}
+.font-size-large {
+  font-size: large;
+}
+.font-size-x-large {
+  font-size: x-large;
+}
+.font-size-xx-large {
+  font-size: xx-large;
+}
+.font-size-smaller {
+  font-size: smaller;
+}
+.font-size-larger {
+  font-size: larger;
+}
+.font-size-initial {
+  font-size: initial;
+}
+.font-size-inherit {
+  font-size: inherit;
+}
+.background-size-cover {
+  background-size: cover;
+}
+.background-size-contain {
+  background-size: contain;
+}
+.background-size-initial {
+  background-size: initial;
+}
+.background-size-inherit {
+  background-size: inherit;
+}
+.background-size-percent-10 {
+  background-size: 10%;
+}
+.background-size-percent-20 {
+  background-size: 20%;
+}
+.background-size-percent-30 {
+  background-size: 30%;
+}
+.background-size-percent-40 {
+  background-size: 40%;
+}
+.background-size-percent-50 {
+  background-size: 50%;
+}
+.background-size-percent-60 {
+  background-size: 60%;
+}
+.background-size-percent-70 {
+  background-size: 70%;
+}
+.background-size-percent-80 {
+  background-size: 80%;
+}
+.background-size-percent-90 {
+  background-size: 90%;
 }
 .alignCenter {
   text-align: center;
