@@ -34,3 +34,42 @@
         height: 0; 
         clear: both; 
         visibility: hidden; 
+        
+        
+        
+.navbarrightfixed
+    //margin: 3em 0 0;
+    position: fixed;
+    right:0;
+    top:0;
+    float: right;
+    height:100%;
+    ul
+        list-style: none; 
+        width: 94%; 
+        margin: 0 auto;
+        li
+            width: 50%; 
+            font-size: 1.0rem; 
+            margin: 0 0 1em; 
+            color: #aaa;
+            display:block;
+            a
+                display: block; 
+                font-size: 1.4rem; 
+                font-weight: bold; 
+                margin: 0 0 0.24em; 
+                text-transform: uppercase; 
+                letter-spacing: 0.1em; 
+                position: relative;
+            a:hover
+                font-style: italic;
+            a:after
+                background: none; 
+                opacity: 0;
+    ul:after
+        content: "."; 
+        display: block; 
+        height: 0; 
+        clear: both; 
+        visibility: hidden; 
